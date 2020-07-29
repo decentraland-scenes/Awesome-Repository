@@ -18,6 +18,10 @@ See the [Decentraland documentation](docs.decentraland.org) for more detailed in
 ## FAQs
 
 link
+
+Check the Forum
+Visit the Discord channel
+
 -->
 
 ## Examples
@@ -61,15 +65,15 @@ link
 
 ### Monetization & Blockchain
 
-| Example                                                                    | Description |
-| -------------------------------------------------------------------------- | ----------- |
-| [Donation Box](https://github.com/decentraland-scenes/Donations-Box)       |
-| [Paid Button](https://github.com/decentraland-scenes/Paid-Button)          |
-| [Paid Lever](https://github.com/decentraland-scenes/Paid-Lever)            |
-| [Simple NFT](https://github.com/decentraland-scenes/Certified-criptokitty) |
-| [NFT Wall](https://github.com/decentraland-scenes/nft-wall-example-scene)  |
-| [MANA Burning](https://github.com/decentraland-scenes/MANA-Burning-Altar)  |
-| [POAP Booth](https://github.com/decentraland-scenes/POAP-Booth)            |
+| Example                                                                    | Description                                                                                                     |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [Donation Box](https://github.com/decentraland-scenes/Donations-Box)       | Request MANA donations to a wallet.                                                                             |
+| [Paid Button](https://github.com/decentraland-scenes/Paid-Button)          | Add a button that is only activated by paying a MANA sum to a specified address.                                |
+| [Paid Lever](https://github.com/decentraland-scenes/Paid-Lever)            | Add a lever that only switches state by paying a MANA sum to a specified address.                               |
+| [Simple NFT](https://github.com/decentraland-scenes/Certified-criptokitty) | Display a 2D NFT in a picture frame.                                                                            |
+| [NFT Wall](https://github.com/decentraland-scenes/nft-wall-example-scene)  | Display a collection of 2D NFTs in picture frames, these swap every few seconds, taking data from a JSON file.  |
+| [MANA Burning](https://github.com/decentraland-scenes/MANA-Burning-Altar)  | Interact with the MANA contract to burn MANA fees collected over time by the Market place in a ceremonious way. |
+| [POAP Booth](https://github.com/decentraland-scenes/POAP-Booth)            | Interact with the [POAP](https://www.poap.xyz/) contract to mint a POAP token when clicking on a booth.         |
 
 ### Multiplayer & APIs
 
@@ -192,11 +196,11 @@ The full code from the tutorial is available in this [repository](https://github
 
 ### 3D Modeling for Decentraland
 
-| Example                          | Description                                                                                                                                                                                                     |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Add a collider]()               | Add a collider to an existing 3D model, to prevent players from walking through it. {%  include youtube.html video_id='UrByRRwfGjY'  %}                                                                         |
-| [Add predefined animations]()    | Download a freely licenced 3D model from Google Poly, and apply free animations that you can download from Mixamo to it. {%  include youtube.html video_id='7RSsBmm-rVs'  %}                                    |
-| [Create animations in Blender]() | Download a freely licenced 3D model from Google Poly, import it into Blender and then create an _armature_ to manually create your own _animations_ for it. {%  include youtube.html video_id='eiHI-B5cH4k'  %} |
+| Example                                                                     | Description                                                                                                                                                 |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Add a collider](www.youtube.com/watch?v=UrByRRwfGjY)                       | Add a collider to an existing 3D model, to prevent players from walking through it.                                                                         |
+| [Add predefined animations](https://www.youtube.com/watch?v=7RSsBmm-rVs)    | Download a freely licenced 3D model from Google Poly, and apply free animations that you can download from Mixamo to it.                                    |
+| [Create animations in Blender](https://www.youtube.com/watch?v=eiHI-B5cH4k) | Download a freely licenced 3D model from Google Poly, import it into Blender and then create an _armature_ to manually create your own _animations_ for it. |
 
 ## Copyright info
 
