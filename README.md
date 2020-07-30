@@ -10,11 +10,9 @@ Here you can find content to help you build scenes for Decentraland. Here you'll
 - [Tutorials](#Tutorials)
 - [FAQs](#FAQs)
 
-If you can think of an example that is easy to understand and covers valuable topics that aren't covered here, you're encouraged to create a pull request and contribute!
+If you can think of an example that is easy to understand and covers valuable topics that aren't covered here, you're encouraged to create a **Pull Request** and contribute!
 
-You're encouraged to report issues in the Issues tab of the repositoriy.
-
-See the [Decentraland documentation](docs.decentraland.org) for more detailed information.
+If something doesn’t work, please [file an issue](https://github.com/decentraland-scenes/Awesome-Repository/issues/new).
 
 <!--
 ## FAQs
@@ -26,26 +24,45 @@ Visit the Discord channel
 
 -->
 
+## Key Concepts
+
+| Article                                                                                                             | Description                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| [SDK functionality to a Builder scene](https://decentraland.org/blog/tutorials/adding-functionality-builder-scene/) | Take an exported Builder scene and understand how to edit its code to add more functionality. |
+| [Introduction to Entities, Components & Systems](https://decentraland.org/blog/tutorials/intro-to-sdk-v5/)          |
+| [Motion & Animations - Part 1](https://decentraland.org/blog/tutorials/motion-animations-in-SDK-5/)                 |
+| [Motion & Animations - Part 2](https://decentraland.org/blog/tutorials/motion-animations-in-SDK-5-part-2/)          |
+
+For a fully comprehensive introduction, we also recommend you read the following topics from the Documentation:
+
+- [Entities & Components](https://docs.decentraland.org/development-guide/entities-components/)
+- [Systems](https://docs.decentraland.org/development-guide/systems/)
+- [Custom Components](https://docs.decentraland.org/development-guide/custom-components/)
+- [Component Groups](https://docs.decentraland.org/development-guide/component-groups/)
+- [Files in a Scene](https://docs.decentraland.org/development-guide/scene-files/)
+
+See the [Decentraland documentation](docs.decentraland.org) to find more specific information about various other.
+
 ## Examples
 
 ### Essentials
 
-| Example                                                                       | Thumbnail                                                  | Description                                                                                                                                                                                 |
-| ----------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Sliding Door](https://github.com/decentraland-scenes/Sliding-door)           | <img src="screenshots/sliding-door.png" width="200">       | Use the Utils library to shift the position of a door gradually. Clicks on the door toggle it from open to closed.                                                                          |
-| [Door](https://github.com/decentraland-scenes/Open-door)                      | <img src="screenshots/door.png" width="200">               | Use the Utils library to rotate a door gradually. Clicks on the door toggle it from open to closed.                                                                                         |
-| [Puffer](https://github.com/decentraland-scenes/Puffer)                       | <img src="screenshots/puffer.png" width="200">             | Use the Utils library to scale items and delay actions                                                                                                                                      |
-| [Button events](https://github.com/decentraland-scenes/Basic-Interactions)    | <img src="screenshots/basic-interactions.png" width="200"> | A simple example of each way in which players can use button events to interact with the scene. Each shape's color is activated by interacting with it.                                     |
-| [Jukebox](https://github.com/decentraland-scenes/Jukebox)                     | <img src="screenshots/jukebox.png" width="200">            | Play different songs by pressing buttons on a jukebox.                                                                                                                                      |
-| [Hypno Wheels](https://github.com/decentraland-scenes/Hypno-wheels)           | <img src="screenshots/hypnowheels.png" width="200">        | A first encounter with Systems, Custom Components and Component Groups.                                                                                                                     |
-| [Shark Animation](https://github.com/decentraland-scenes/Shark-animation)     | <img src="screenshots/shark-animation.png" width="200">    | Control animations on a 3D model. Toggle them on or off when clicking on the model.                                                                                                         |
-| [Gnark Patrolling](https://github.com/decentraland-scenes/Gnark-patrol)       | <img src="screenshots/gnark.png" width="200">              | A character walks along a fixed path, using lerp over each segment of the path. If you approach it, it will switch states to yelling at you.                                                |
-| [Hummingbirds](https://github.com/decentraland-scenes/)                       | <img src="screenshots/hummingbirds.png" width="200">       | A new bird spawns every time you click a tree. Each bird moves on its own to random positions.                                                                                              |
-| [Smoke](https://github.com/decentraland-scenes/Smoke)                         | <img src="screenshots/smoke.png" width="200">              | Use planes to create a particle system that simulates smoke rising.                                                                                                                         |
-| [Dance Floor](https://github.com/decentraland-scenes/Dance-floor)             | <img src="screenshots/dancefloor.png" width="200">         | Combines animations, sound, and tiles on the floor that randomly change color to the beat.                                                                                                  |
-| [Laser-Ray Casting](https://github.com/decentraland-scenes/Laser-ray-casting) | <img src="screenshots/laser.png" width="200">              | Use ray casting to trace a line in space and check for intersections. Cubes change material when hit by the laser. They also change when being pointed at by the player.                    |
-| [Swimming in Circles](https://github.com/decentraland-scenes/Swimming-shark)  | <img src="screenshots/shark-swimming.png" width="200">     | Move a shark along the segments of a curve to swim in circles.                                                                                                                              |
-| [Block Dog](https://github.com/decentraland-scenes/Block-dog)                 | <img src="screenshots/blockdog.png" width="200">           | A simple AI character that randomly chooses what action to take: follow you, sit or remain idle. Tell it to sit or stand up by clicking it, or tell it to drink water by clicking its bowl. |
+| Example                                                                       | Thumbnail                                                  | Description                                                                                                                                                                                                                                         |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Sliding Door](https://github.com/decentraland-scenes/Sliding-door)           | <img src="screenshots/sliding-door.png" width="200">       | Use the Utils library to shift the position of a door gradually. Clicks on the door toggle it from open to closed.                                                                                                                                  |
+| [Door](https://github.com/decentraland-scenes/Open-door)                      | <img src="screenshots/door.png" width="200">               | Use the Utils library to rotate a door gradually. Clicks on the door toggle it from open to closed.                                                                                                                                                 |
+| [Puffer](https://github.com/decentraland-scenes/Puffer)                       | <img src="screenshots/puffer.png" width="200">             | Use the Utils library to scale items and delay actions. Also include 3D models and sounds.                                                                                                                                                          |
+| [Button events](https://github.com/decentraland-scenes/Basic-Interactions)    | <img src="screenshots/basic-interactions.png" width="200"> | A simple example of each way in which players can use button events to interact with the scene. Each shape's color is activated by interacting with it in a special way.                                                                            |
+| [Jukebox](https://github.com/decentraland-scenes/Jukebox)                     | <img src="screenshots/jukebox.png" width="200">            | Play different songs by pressing buttons on a jukebox.                                                                                                                                                                                              |
+| [Hypno Wheels](https://github.com/decentraland-scenes/Hypno-wheels)           | <img src="screenshots/hypnowheels.png" width="200">        | A first encounter with Systems, Custom Components and Component Groups. Check out the [related tutorial](https://decentraland.org/blog/tutorials/intro-to-sdk-v5/).)                                                                                |
+| [Shark Animation](https://github.com/decentraland-scenes/Shark-animation)     | <img src="screenshots/shark-animation.png" width="200">    | Control animations on a 3D model. Toggle them on or off when clicking on the model.                                                                                                                                                                 |
+| [Gnark Patrolling](https://github.com/decentraland-scenes/Gnark-patrol)       | <img src="screenshots/gnark.png" width="200">              | A character walks along a fixed path, using lerp over each segment of the path. If you approach it, it will switch states to yelling at you. Check out the [related tutorial](https://decentraland.org/blog/tutorials/motion-animations-in-SDK-5/). |
+| [Hummingbirds](https://github.com/decentraland-scenes/)                       | <img src="screenshots/hummingbirds.png" width="200">       | A new bird spawns every time you click a tree. Each bird moves on its own to random positions.                                                                                                                                                      |
+| [Smoke](https://github.com/decentraland-scenes/Smoke)                         | <img src="screenshots/smoke.png" width="200">              | Use planes to create a particle system that simulates smoke rising.                                                                                                                                                                                 |
+| [Dance Floor](https://github.com/decentraland-scenes/Dance-floor)             | <img src="screenshots/dancefloor.png" width="200">         | Combines animations, sound, and tiles on the floor that randomly change color to the beat.                                                                                                                                                          |
+| [Laser-Ray Casting](https://github.com/decentraland-scenes/Laser-ray-casting) | <img src="screenshots/laser.png" width="200">              | Use ray casting to trace a line in space and check for intersections. Cubes change material when hit by the laser. They also change when being pointed at by the player.                                                                            |
+| [Swimming in Circles](https://github.com/decentraland-scenes/Swimming-shark)  | <img src="screenshots/shark-swimming.png" width="200">     | Move a shark along the segments of a curve to swim in circles.                                                                                                                                                                                      |
+| [Block Dog](https://github.com/decentraland-scenes/Block-dog)                 | <img src="screenshots/blockdog.png" width="200">           | A simple AI character that randomly chooses what action to take: follow you, sit or remain idle. Tell it to sit or stand up by clicking it, or tell it to drink water by clicking its bowl.                                                         |
 
 #### Game mechanics
 
@@ -147,23 +164,6 @@ https://github.com/decentraland-scenes/the-munastery
 
 ## Tutorials
 
-### Essentials
-
-| Example                                                                                                             | Description |
-| ------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [SDK functionality to a Builder scene](https://decentraland.org/blog/tutorials/adding-functionality-builder-scene/) |
-| [Introduction to Entities, Components & Systems](https://decentraland.org/blog/tutorials/intro-to-sdk-v5/)          |
-| [Motion & Animations - Part 1](https://decentraland.org/blog/tutorials/motion-animations-in-SDK-5/)                 |
-| [Motion & Animations - Part 2](https://decentraland.org/blog/tutorials/motion-animations-in-SDK-5-part-2/)          |
-
-For a fully comprehensive introduction, we also recommend you read the following topics from the Documentation:
-
-- [Entities & Components](https://docs.decentraland.org/development-guide/entities-components/)
-- [Systems](https://docs.decentraland.org/development-guide/systems/)
-- [Custom Components](https://docs.decentraland.org/development-guide/custom-components/)
-- [Component Groups](https://docs.decentraland.org/development-guide/component-groups/)
-- [Files in a Scene](https://docs.decentraland.org/development-guide/scene-files/)
-
 ### Escape Room Video Tutorial Series
 
 This series of 5 minute videos covers a number of essential concepts, game mechanics and coding best practices. They take you through the whole process of building a full escape room game.
@@ -176,14 +176,14 @@ The full code from the tutorial is available in this [repository](https://github
 
 ### Multiplayer & APIs
 
-| Example                                                                     | Description                                                                                        |
+| Article                                                                     | Description                                                                                        |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [Servers - Part 1](https://decentraland.org/blog/tutorials/servers-part-1/) | Send requests to an API to fetch data.                                                             |
 | [Servers - Part 2](https://decentraland.org/blog/tutorials/servers-part-2/) | Launch your own server on Firebase to handle HTTP requests from your scene and store data in a DB. |
 
 ### Other
 
-| Example                                                                                                   | Description                                                                                                                                    |
+| Article                                                                                                   | Description                                                                                                                                    |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Creating Genesis Plaza - Part 1](https://decentraland.org/blog/tutorials/creating-genesis-plaza-part-1/) | Tips and tricks that went into the creation of Genesis Plaza, regarding best practices and optimization.                                       |
 | [Creating Genesis Plaza - Part 2](https://decentraland.org/blog/tutorials/creator-genesis-plaza-part-2/)  | Guidance about several features that were first introduced with Genesis Plaza, like video and audio streaming, teleports, external links, etc. |
@@ -191,7 +191,7 @@ The full code from the tutorial is available in this [repository](https://github
 
 ### Guest Posts
 
-| Example                                                                                                                                            | Description                                                                                               |
+| Article                                                                                                                                            | Description                                                                                               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
 | [Using the UI](https://decentraland.org/blog/tutorials/adding-a-ui/)                                                                               | A walkthrough by Surz about how to create a UI for your scene.                                            |
 | [Picking & Moving Objects](https://decentraland.org/blog/announcements/building-blocks/)                                                           | A walkthrough by Interweaver about how to pick up objects and place them in position, snapping to a grid. |
@@ -204,7 +204,7 @@ The full code from the tutorial is available in this [repository](https://github
 
 ### 3D Modeling for Decentraland
 
-| Example                                                                     | Description                                                                                                                                                 |
+| Video                                                                       | Description                                                                                                                                                 |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Add a collider](www.youtube.com/watch?v=UrByRRwfGjY)                       | Add a collider to an existing 3D model, to prevent players from walking through it.                                                                         |
 | [Add predefined animations](https://www.youtube.com/watch?v=7RSsBmm-rVs)    | Download a freely licenced 3D model from Google Poly, and apply free animations that you can download from Mixamo to it.                                    |
@@ -212,4 +212,4 @@ The full code from the tutorial is available in this [repository](https://github
 
 ## Copyright info
 
-All of these scenes are protected with a standard Apache 2 licence. See the terms and conditions in the [LICENSE](/LICENSE) file.
+All of these scenes are open source, protected with a standard Apache 2 licence. This licence states that this content can be used freely, even commercially, as long as you acknowledge the author. See the terms and conditions in the [LICENSE](/LICENSE) file.
