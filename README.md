@@ -10,14 +10,14 @@ Here you can find content to help you build scenes for Decentraland. Here you'll
 - [Tutorials](#Tutorials)
 - [FAQs](#FAQs)
 
-If you can think of an example that is easy to understand and covers valuable topics that aren't covered here, you're encouraged to create a **Pull Request** and contribute!
+If you can think of an example that is easy to understand and covers valuable topics that aren't covered here, you're encouraged to create a **Pull Request** and [contribute](https://github.com/decentraland-scenes/Awesome-Repository/blob/master/CONTRIBUTING.md)!
 
 If something doesn’t work, please [file an issue](https://github.com/decentraland-scenes/Awesome-Repository/issues/new).
 
 <!--
 ## FAQs
 
-link
+[Read the FAQs](https://github.com/decentraland-scenes/Awesome-Repository/blob/master/FAQ.md)
 
 Check the Forum
 Visit the Discord channel
