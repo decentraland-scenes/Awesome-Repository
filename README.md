@@ -78,11 +78,11 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 
 #### Physics
 
-| Example                                                                             | Thumbnail                                     | Description                                                                                     |
-| ----------------------------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [Bouncing Balls](https://github.com/decentraland-scenes/cannon-example-scene)       | <img src="screenshots/balls.gif" width="200"> | Kick balls around and make them bounce off each other, using the cannon.js library for physics. |
-| [Car + Physics](https://github.com/decentraland-scenes/cannon-car-example-scene)    |                                               | Drive a car through piles of boxes and see them tumble down, using cannon.js for physics.       |
-| [2D Bouncing Ball](https://github.com/decentraland-scenes/box2d-ball-example-scene) |                                               | A bouncing ball using the box2d physics library to simulate physics on a 2D space.              |
+| Example                                                                             | Thumbnail                                          | Description                                                                                     |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [Bouncing Balls](https://github.com/decentraland-scenes/cannon-example-scene)       | <img src="screenshots/balls.gif" width="200">      | Kick balls around and make them bounce off each other, using the cannon.js library for physics. |
+| [Car + Physics](https://github.com/decentraland-scenes/cannon-car-example-scene)    | <img src="screenshots/cannon-car.gif" width="200"> | Drive a car through piles of boxes and see them tumble down, using cannon.js for physics.       |
+| [2D Bouncing Ball](https://github.com/decentraland-scenes/box2d-ball-example-scene) |                                                    | A bouncing ball using the box2d physics library to simulate physics on a 2D space.              |
 
 ### Monetization & Blockchain
 
@@ -100,12 +100,12 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 
 #### Hit an API
 
-| Example                                                                         | Thumbnail                                                 | Description                                                                                                                                           |
-| ------------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Party Time](https://github.com/decentraland-scenes/Party-Time)                 | <img src="screenshots/party-time.png" width="200">        | Hit a world clock API to check the time, start a party if it's after 9PM.                                                                             |
-| [Events API](https://github.com/decentraland-scenes/Events-API)                 | <img src="screenshots/events.png" width="200">            | Query the Decentraland Events API for any events that are currently active to display their info. If more than one, flip through them on the display. |
-| [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner)   | <img src="screenshots/wearables-scanner.png" width="200"> | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them.                   |
-| [Weather Simulation](https://github.com/decentraland-scenes/Weather-simulation) | <img src="screenshots/weather.png" width="200">           | Check a weather API, then represent the weather conditions, whatever they are.                                                                        |
+| Example                                                                         | Thumbnail                                          | Description                                                                                                                                           |
+| ------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Party Time](https://github.com/decentraland-scenes/Party-Time)                 | <img src="screenshots/party-time.png" width="200"> | Hit a world clock API to check the time, start a party if it's after 9PM.                                                                             |
+| [Events API](https://github.com/decentraland-scenes/Events-API)                 | <img src="screenshots/events.png" width="200">     | Query the Decentraland Events API for any events that are currently active to display their info. If more than one, flip through them on the display. |
+| [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner)   | <img src="screenshots/scanner.gif" width="200">    | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them.                   |
+| [Weather Simulation](https://github.com/decentraland-scenes/Weather-simulation) | <img src="screenshots/weather.png" width="200">    | Check a weather API, then represent the weather conditions, whatever they are.                                                                        |
 
 #### Use message bus
 
