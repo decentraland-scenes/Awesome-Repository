@@ -82,7 +82,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | ----------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Bouncing Balls](https://github.com/decentraland-scenes/cannon-example-scene)       | <img src="screenshots/balls.gif" width="200">      | Kick balls around and make them bounce off each other, using the cannon.js library for physics. |
 | [Car + Physics](https://github.com/decentraland-scenes/cannon-car-example-scene)    | <img src="screenshots/cannon-car.gif" width="200"> | Drive a car through piles of boxes and see them tumble down, using cannon.js for physics.       |
-| [2D Bouncing Ball](https://github.com/decentraland-scenes/box2d-ball-example-scene) |                                                    | A bouncing ball using the box2d physics library to simulate physics on a 2D space.              |
+| [2D Bouncing Ball](https://github.com/decentraland-scenes/box2d-ball-example-scene) |<img src="screenshots/bouncing-ball.gif" width="200">  | A bouncing ball using the box2d physics library to simulate physics on a 2D space.          |
 
 ### Monetization & Blockchain
 
