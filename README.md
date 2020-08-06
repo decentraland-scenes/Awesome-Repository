@@ -86,15 +86,31 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 
 ### Monetization & Blockchain
 
-| Example                                                                    | Thumbnail                                             | Description                                                                                                     |
-| -------------------------------------------------------------------------- | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| [Donation Box](https://github.com/decentraland-scenes/Donations-Box)       | <img src="screenshots/donations.png" width="200">     | Request MANA donations to a wallet.                                                                             |
-| [Paid Button](https://github.com/decentraland-scenes/Paid-Button)          | <img src="screenshots/paid-button.png" width="200">   | Add a button that is only activated by paying a MANA sum to a specified address.                                |
-| [Paid Lever](https://github.com/decentraland-scenes/Paid-Lever)            | <img src="screenshots/paid-lever.png" width="200">    | Add a lever that only switches state by paying a MANA sum to a specified address.                               |
-| [Simple NFT](https://github.com/decentraland-scenes/Certified-criptokitty) | <img src="screenshots/kitty.png" width="200">         | Display a 2D NFT in a picture frame.                                                                            |
-| [NFT Wall](https://github.com/decentraland-scenes/nft-wall-example-scene)  | <img src="screenshots/nft-swap-wall.gif" width="200"> | Display a collection of 2D NFTs in picture frames, these swap every few seconds, taking data from a JSON file.  |
-| [MANA Burning](https://github.com/decentraland-scenes/MANA-Burning-Altar)  | <img src="screenshots/mana-altar.png" width="200">    | Interact with the MANA contract to burn MANA fees collected over time by the Market place in a ceremonious way. |
-| [POAP Booth](https://github.com/decentraland-scenes/POAP-Booth)            | <img src="screenshots/POAP.png" width="200">          | Interact with the [POAP](https://www.poap.xyz/) contract to mint a POAP token when clicking on a booth.         |
+**Crypto library**
+
+| Example                                                                       | Thumbnail                                           | Description                                                                                                                         |
+| ----------------------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [Donation Box](https://github.com/decentraland-scenes/Donations-Box)          | <img src="screenshots/donations.png" width="200">   | Request MANA donations to a wallet.                                                                                                 |
+| [Paid Button](https://github.com/decentraland-scenes/Paid-Button)             | <img src="screenshots/paid-button.png" width="200"> | Add a button that is only activated by paying a MANA sum to a specified address.                                                    |
+| [Paid Lever](https://github.com/decentraland-scenes/Paid-Lever)               | <img src="screenshots/paid-lever.png" width="200">  | Add a lever that only switches state by paying a MANA sum to a specified address.                                                   |
+| [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner) | <img src="screenshots/scanner.gif" width="200">     | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them. |  |
+
+**NFTs**
+
+| Example                                                                    | Thumbnail                                             | Description                                                                                                    |
+| -------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [Simple NFT](https://github.com/decentraland-scenes/Certified-criptokitty) | <img src="screenshots/kitty.png" width="200">         | Display a 2D NFT in a picture frame.                                                                           |
+| [NFT Wall](https://github.com/decentraland-scenes/nft-wall-example-scene)  | <img src="screenshots/nft-swap-wall.gif" width="200"> | Display a collection of 2D NFTs in picture frames, these swap every few seconds, taking data from a JSON file. |
+
+**Interact directly with contract**
+
+<!-- mana transaction?? -->
+
+| Example                                                                        | Thumbnail                                          | Description                                                                                                         |
+| ------------------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [MANA Burning](https://github.com/decentraland-scenes/MANA-Burning-Altar)      | <img src="screenshots/mana-altar.png" width="200"> | Interact with the MANA contract to burn MANA fees collected over time by the Market place in a ceremonious way.     |
+| [POAP Booth](https://github.com/decentraland-scenes/POAP-Booth)                | <img src="screenshots/POAP.png" width="200">       | Interact with the [POAP](https://www.poap.xyz/) contract to mint a POAP token when clicking on a booth.             |
+| [Mint Pixelchain NFT](https://github.com/decentraland/pixel-chain-mural-scene) | <img src="screenshots/pixelchain.png" width="200"> | Paint a mural made from 32 x 32 pixels. You can then mint the image as a [PixelChain](https://pixelchain.art/) NFT. |
 
 ### Multiplayer & APIs
 
@@ -104,7 +120,6 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | ------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Party Time](https://github.com/decentraland-scenes/Party-Time)                 | <img src="screenshots/party-time.png" width="200"> | Hit a world clock API to check the time, start a party if it's after 9PM.                                                                             |
 | [Events API](https://github.com/decentraland-scenes/Events-API)                 | <img src="screenshots/events.png" width="200">     | Query the Decentraland Events API for any events that are currently active to display their info. If more than one, flip through them on the display. |
-| [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner)   | <img src="screenshots/scanner.gif" width="200">    | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them.                   |
 | [Weather Simulation](https://github.com/decentraland-scenes/Weather-simulation) | <img src="screenshots/weather.png" width="200">    | Check a weather API, then represent the weather conditions, whatever they are.                                                                        |
 
 #### Use message bus
@@ -119,7 +134,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | Example                                                                          | Thumbnail                                           | Description                                                                                                                           |
 | -------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | [Leader Board](https://github.com/decentraland-scenes/Leader-Board)              | <img src="screenshots/leaderboard.png" width="200"> | Upload player's final scores to a server, the best ones are displayed for all to see on a board.                                      |
-| [Guest Book API](ttps://github.com/decentraland-scenes/Guest-Book-API)           | <img src="screenshots/guestbook.png" width="200">   | Players that sign this guest-book upload their user name and address to the server. All signatures are fetched when opening the book. |
+| [Guest Book API](https://github.com/decentraland-scenes/Guest-Book-API)          | <img src="screenshots/guestbook.png" width="200">   | Players that sign this guest-book upload their user name and address to the server. All signatures are fetched when opening the book. |
 | [Pixel Mural](https://github.com/decentraland-scenes/mural-example-scene)        | <img src="screenshots/mural.png" width="200">       | Create 2D pixel art by painting tiles. Players are synced through both the messagebus and a DB in a server.                           |
 | [3D Voxel Art Creator](https://github.com/decentraland-scenes/voxel-art-creator) | <img src="screenshots/voxel.png" width="200">       | Create 3D voxel art by placing cubes in place. Players are synced through both the messagebus and a DB in a server.                   |
 | [Zenquencer](https://github.com/decentraland-scenes/Zenquencer)                  | <img src="screenshots/zenquencer.gif" width="200">  | Create musical patterns that are played in sequence. Players are synced through both the messagebus and a DB in a server.             |
