@@ -74,7 +74,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Grab Objects](https://github.com/decentraland-scenes/grab-objects)                  |<img src="screenshots/grab-objects.gif" width="200">    | Click an item to hold it and drop it somewhere else in the scene.                                                                       |
 | [Grab Objects Advanced](https://github.com/decentraland-scenes/grab-objects-advance) |<img src="screenshots/grab-objects-advance.gif" width="200">    | Click an item to hold it in the air and carry it or toss it around the scene using physics.                                      |
 | [Shooting Range](https://github.com/decentraland-scenes/shooting-range)              | <img src="screenshots/shooting-range.gif" width="200"> | Shoot at moving targets. Bullet holes appear in the spots where shots hit.                                                                 |
-| [NPC Dialog](https://github.com/decentraland-scenes/npc-dialog-example-scene)        | <img src="screenshots/npc-dialog.gif" width="200">     | A UI window presents texts from an NPC, allowing you to use the Right Click, E and F keys to advance the conversation or answer questions. |
+| [NPC Dialog](https://github.com/decentraland-scenes/npc-dialog-example-scene)        | <img src="screenshots/npc-dialog.gif" width="200">     | A UI window presents texts from an NPC, allowing you to use Mouse Clicks, E and F keys to advance the conversation or answer questions. |
 
 #### Physics
 
