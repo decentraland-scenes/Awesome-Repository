@@ -69,12 +69,12 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 
 | Example                                                                              | Thumbnail                                              | Description                                                                                                                                |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Coin Pickup](https://github.com/decentraland-scenes/coin-pickup)                    | <img src="screenshots/coin-pickup.gif" width="200">    | Coins that are picked up when players walk over them.                                                                                      |
+| [Coin Pickup](https://github.com/decentraland-scenes/coin-pickup)                    | <img src="screenshots/coin-pickup.gif" width="200">    | Coins that are picked up when players walk over them.                                                                                    |
 | [Item Pickup](https://github.com/decentraland-scenes/item-pickup)                    | <img src="screenshots/item-pickup.gif" width="200">    | Various items like health packs and ammo that are picked up when players walk over them.                                                   |
-| [Grab Objects basic](https://github.com/decentraland-scenes/grab-objects-basic)      |                                                        | Click an item to hold it and drop it somewhere else in the scene.                                                                          |
-| [Grab Objects Advanced](https://github.com/decentraland-scenes/grab-objects-advance) |                                                        | Click an item to hold it in the air and carry it or toss it around the scene using physics.                                                |
+| [Grab Objects](https://github.com/decentraland-scenes/grab-objects)                  |<img src="screenshots/grab-objects.gif" width="200">    | Click an item to hold it and drop it somewhere else in the scene.                                                                       |
+| [Grab Objects Advanced](https://github.com/decentraland-scenes/grab-objects-advance) |<img src="screenshots/grab-objects-advance.gif" width="200">    | Click an item to hold it in the air and carry it or toss it around the scene using physics.                                      |
 | [Shooting Range](https://github.com/decentraland-scenes/shooting-range)              | <img src="screenshots/shooting-range.gif" width="200"> | Shoot at moving targets. Bullet holes appear in the spots where shots hit.                                                                 |
-| [NPC Dialog](https://github.com/decentraland-scenes/npc-dialog-example-scene)        | <img src="screenshots/npc-dialog.gif" width="200">     | A UI window presents texts from an NPC, allowing you to use the Right Click, E and F keys to advance the conversation or answer questions. |
+| [NPC Dialog](https://github.com/decentraland-scenes/npc-dialog-example-scene)        | <img src="screenshots/npc-dialog.gif" width="200">     | A UI window presents texts from an NPC, allowing you to use Mouse Clicks, E and F keys to advance the conversation or answer questions. |
 
 #### Physics
 
@@ -82,7 +82,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | ----------------------------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Bouncing Balls](https://github.com/decentraland-scenes/cannon-example-scene)       | <img src="screenshots/balls.gif" width="200">      | Kick balls around and make them bounce off each other, using the cannon.js library for physics. |
 | [Car + Physics](https://github.com/decentraland-scenes/cannon-car-example-scene)    | <img src="screenshots/cannon-car.gif" width="200"> | Drive a car through piles of boxes and see them tumble down, using cannon.js for physics.       |
-| [2D Bouncing Ball](https://github.com/decentraland-scenes/box2d-ball-example-scene) |                                                    | A bouncing ball using the box2d physics library to simulate physics on a 2D space.              |
+| [2D Bouncing Ball](https://github.com/decentraland-scenes/box2d-ball-example-scene) |<img src="screenshots/bouncing-ball.gif" width="200">  | A bouncing ball using the box2d physics library to simulate physics on a 2D space.          |
 
 ### Monetization & Blockchain
 
@@ -146,6 +146,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Broadcast Server](https://github.com/decentraland-scenes/ws-broadcast)       | (server code only)                                   | A basic server that broadcasts all messages it receives to all other players in a room.                                                                                               |
 | [Color Switch](https://github.com/decentraland-scenes/ws-example)             | <img src="screenshots/ws-basic.png" width="200">     | A minimal scene where clicking on cubes changes their color. The broadcast server syncs these changes to all other players in the same realm.                                         |
 | [Land Flipper Game](https://github.com/decentraland-scenes/Land-Flipper-Game) | <img src="screenshots/land-flipper.gif" width="200"> | A team game for 2 players or more, where tiles switch colors when walked on. The server keeps track of the game's state, and has the final word about when the game ends and who won. |
+| [Discord Chat](https://github.com/decentraland-scenes/discordWebsocket) | | Display messages being posted to Decentraland discord server in real time inside the world |
 
 ### Full scenes
 
