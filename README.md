@@ -77,7 +77,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [NPC Dialog](https://github.com/decentraland-scenes/npc-dialog-example-scene) | <img src="screenshots/npc-dialog.gif" width="200"> | A UI window presents texts from an NPC, allowing you to use Mouse Clicks, E and F keys to advance the conversation or answer questions. |
 | [Shooting Range](https://github.com/decentraland-scenes/shooting-range) | <img src="screenshots/shooting-range.gif" width="200"> | Shoot at moving targets. Bullet holes appear in the spots where shots hit. |
 | [Shooting Range Advanced](https://github.com/decentraland-scenes/shooting-range-advanced) | <img src="screenshots/shooting-range-advanced.gif" width="200"> | Shoot at moving targets. Bullet holes appear at whatever angle the bullet strikes the target. |
-| [Splat Attack](https://github.com/decentraland-scenes/splat-attack) | <img src="screenshots/splat-attack.gif" width="200"> | Cover as much of the ground as you can with paint. |
+| [Splat Attack](https://github.com/decentraland-scenes/splat-attack) | <img src="screenshots/splat-attack.gif" width="200"> | Cover as much of the ground as you can with paint before calculating the area covered by it. |
 | [Zombie Attack](https://github.com/decentraland-scenes/zombie-attack) | <img src="screenshots/zombie-attack.gif" width="200"> | A zombie will chase you around and attack you once it gets near. |
 
 #### Physics
