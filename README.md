@@ -69,7 +69,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 
 | Example                                                                              | Thumbnail                                              | Description                                                                                                                                |
 | ------------------------------------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Coin Pickup](https://github.com/decentraland-scenes/coin-pickup) | <img src="screenshots/coin-pickup.gif" width="200"> | Coins that are picked up when players walk over them. |
+| [Coin Pickup](https://github.com/decentraland-scenes/coin-pickup) | <img src="screenshots/coin-pickup.gif" width="200"> | Coins are picked up once the player walk over them. |
 | [Enemy Spawner](https://github.com/decentraland-scenes/enemy-spawner) | <img src="screenshots/enemy-spawner.gif" width="200"> | Spawning enemy spaceships from various shaped portals. |
 | [Grab Objects](https://github.com/decentraland-scenes/grab-objects)| <img src="screenshots/grab-objects.gif" width="200"> | Click an item to hold it and drop it somewhere else in the scene. |
 | [Grab Objects Advanced](https://github.com/decentraland-scenes/grab-objects-advance) | <img src="screenshots/grab-objects-advance.gif" width="200"> | Click an item to hold it in the air and carry it or toss it around the scene using physics. |
