@@ -72,10 +72,11 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Coin Pickup](https://github.com/decentraland-scenes/coin-pickup) | <img src="screenshots/coin-pickup.gif" width="200"> | Coins are picked up once the player walk over them. |
 | [Enemy Spawner](https://github.com/decentraland-scenes/enemy-spawner) | <img src="screenshots/enemy-spawner.gif" width="200"> | Spawning enemy spaceships from various shaped portals. |
 | [Grab Objects](https://github.com/decentraland-scenes/grab-objects)| <img src="screenshots/grab-objects.gif" width="200"> | Click an item to hold it and drop it somewhere else in the scene. |
-| [Grab Objects Advanced](https://github.com/decentraland-scenes/grab-objects-advance) | <img src="screenshots/grab-objects-advance.gif" width="200"> | Click an item to hold it in the air and carry it or toss it around the scene using physics. |
+| [Grab Objects Advanced](https://github.com/decentraland-scenes/grab-objects-advanced) | <img src="screenshots/grab-objects-advanced.gif" width="200"> | Click an item to hold it in the air and carry it or toss it around the scene using physics. |
 | [Item Pickup](https://github.com/decentraland-scenes/item-pickup) | <img src="screenshots/item-pickup.gif" width="200"> | Various items like health packs and ammo that are picked up when players walk over them. |
 | [NPC Dialog](https://github.com/decentraland-scenes/npc-dialog-example-scene) | <img src="screenshots/npc-dialog.gif" width="200"> | A UI window presents texts from an NPC, allowing you to use Mouse Clicks, E and F keys to advance the conversation or answer questions. |
 | [Shooting Range](https://github.com/decentraland-scenes/shooting-range) | <img src="screenshots/shooting-range.gif" width="200"> | Shoot at moving targets. Bullet holes appear in the spots where shots hit. |
+| [Shooting Range Advanced](https://github.com/decentraland-scenes/grab-objects-advanced) | <img src="screenshots/shooting-range-advanced.gif" width="200"> | Shoot at moving targets. Bullet holes appear in the spots where shots hit. |
 | [Splat Attack](https://github.com/decentraland-scenes/splat-attack) | <img src="screenshots/splat-attack.gif" width="200"> | Cover as much of the ground as you can with paint. |
 | [Zombie Attack](https://github.com/decentraland-scenes/zombie-attack) | <img src="screenshots/zombie-attack.gif" width="200"> | A zombie will chase you around and attack you once it gets near. |
 
