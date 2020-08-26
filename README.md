@@ -193,6 +193,7 @@ https://github.com/decentraland-scenes/the-munastery
 | Article                                                           | Description                                                                                                                                                               |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ECS Utils](https://www.npmjs.com/package/decentraland-ecs-utils) | A very handy collection of common tasks made simple. Gradually move, rotate or scale over time. Add trigger areas, delay an action, run an event periodically, and more!. |
+| [UI Utils](https://github.com/decentraland/decentraland-ui-utils) | UI Prefab components and functions for common game UI elements. Show health-bars, labels, counters, icons, prompt windows, NPC dialogs |
 
 <!--
 crypto library
