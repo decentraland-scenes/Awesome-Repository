@@ -7,6 +7,7 @@ Welcome to the Decentraland Awesome repository!
 Here you can find content to help you build scenes for Decentraland. Here you'll find links to:
 
 - [Examples](#Examples)
+- [Libraries](#Libraries)
 - [Tutorials](#Tutorials)
 - [FAQs](#FAQs)
 
@@ -209,6 +210,12 @@ physics??
  -->
 
 ## Tutorials
+
+### Video tutorials
+
+Find a full playlist of all Decentraland video tutorials here:
+
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLAcRraQmr_GPi-8qgv17ewdGl50OHuOhH)
 
 ### Escape Room Video Tutorial Series
 
