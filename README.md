@@ -101,6 +101,9 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Paid Button](https://github.com/decentraland-scenes/Paid-Button)             | <img src="screenshots/paid-button.png" width="200"> | Add a button that is only activated by paying a MANA sum to a specified address.                                                    |
 | [Paid Lever](https://github.com/decentraland-scenes/Paid-Lever)               | <img src="screenshots/paid-lever.png" width="200">  | Add a lever that only switches state by paying a MANA sum to a specified address.                                                   |
 | [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner) | <img src="screenshots/scanner.gif" width="200">     | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them. |  |
+| [Wearables Market](https://github.com/decentraland-scenes/Wearables-In-world-Market) | <img src="" width="200">     | Fetch the cheapest on sale for each wearable and purchase it in-world. |  |
+
+
 
 **NFTs**
 
@@ -194,6 +197,8 @@ https://github.com/decentraland-scenes/the-munastery
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ECS Utils](https://www.npmjs.com/package/decentraland-ecs-utils) | A very handy collection of common tasks made simple. Gradually move, rotate or scale over time. Add trigger areas, delay an action, run an event periodically, and more!. |
 | [UI Utils](https://github.com/decentraland/decentraland-ui-utils) | UI Prefab components and functions for common game UI elements. Show health-bars, labels, counters, icons, prompt windows, NPC dialogs |
+| [Crypto Utils](https://github.com/decentraland/decentraland-crypto-utils) | Several functions to allow you to easily carry out operations with MANA, other currencies, NFTs, the Marketplace, sign messages or anything that involves smart contracts. |
+
 
 <!--
 crypto library
