@@ -205,6 +205,7 @@ https://github.com/decentraland-scenes/the-munastery
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ECS Utils](https://www.npmjs.com/package/decentraland-ecs-utils)         | A very handy collection of common tasks made simple. Gradually move, rotate or scale over time. Add trigger areas, delay an action, run an event periodically, and more!.  |
 | [UI Utils](https://github.com/decentraland/decentraland-ui-utils)         | UI Prefab components and functions for common game UI elements. Show health-bars, labels, counters, icons, prompt windows, NPC dialogs                                     |
+| [NPC Utils](https://github.com/decentraland/decentraland-npc-utils)         | Tools to easily create non-player characters (NPCs) that you can have a conversation with. They can ask quesions, play animations, turn around to always face the player, etc |
 | [Crypto Utils](https://github.com/decentraland/decentraland-crypto-utils) | Several functions to allow you to easily carry out operations with MANA, other currencies, NFTs, the Marketplace, sign messages or anything that involves smart contracts. |
 
 <!--
@@ -239,6 +240,7 @@ The full code from the tutorial is available in this [repository](https://github
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [Servers - Part 1](https://decentraland.org/blog/tutorials/servers-part-1/) | Send requests to an API to fetch data.                                                             |
 | [Servers - Part 2](https://decentraland.org/blog/tutorials/servers-part-2/) | Launch your own server on Firebase to handle HTTP requests from your scene and store data in a DB. |
+| [Servers - Part 3](https://decentraland.org/blog/tutorials/servers-part-3/) | Build a WebSockets server to handle real-time updates. |
 
 ### Other
 
