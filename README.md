@@ -89,7 +89,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Shooting Range Advanced](https://github.com/decentraland-scenes/shooting-range-advanced) | <img src="screenshots/shooting-range-advanced.gif" width="200"> | Shoot at moving targets. Bullet holes appear at whatever angle the bullet strikes the target.                                                   |
 | [Splat Attack](https://github.com/decentraland-scenes/splat-attack)                       | <img src="screenshots/splat-attack.gif" width="200">            | Cover as much of the ground as you can with paint before calculating the area covered by it.                                                    |
 | [Switchboard Platforms](https://github.com/decentraland-scenes/switchboard-platforms)     | <img src="screenshots/switchboard-platforms.gif" width="200">   | A platform that moves when the player stands on one of the switches.                                                                            |
-| [Translocator](https://github.com/decentraland-scenes/translocator)                       | <img src="screenshots/translocator.gif" width="200">            | Example of how to create a projectile with physics and combining that with the new spawn to create a translocator disc.                         |
+| [Translocator](https://github.com/decentraland-scenes/translocator)                       | <img src="screenshots/translocator.gif" width="200">            | Example of how to create a projectile with physics and combining that with the new spawn feature to create a translocator disc.                         |
 | [Zombie Attack](https://github.com/decentraland-scenes/zombie-attack)                     | <img src="screenshots/zombie-attack.gif" width="200">           | A zombie will chase you around and attack you once it gets near.                                                                                |
 
 #### Physics
@@ -98,7 +98,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Bouncing Balls](https://github.com/decentraland-scenes/cannon-example-scene)       | <img src="screenshots/balls.gif" width="200">         | Kick balls around and make them bounce off each other, using the cannon.js library for physics. |
 | [Car + Physics](https://github.com/decentraland-scenes/cannon-car-example-scene)    | <img src="screenshots/cannon-car.gif" width="200">    | Drive a car through piles of boxes and see them tumble down, using cannon.js for physics.       |
-| [2D Bouncing Ball](https://github.com/decentraland-scenes/box2d-ball-example-scene) | <img src="screenshots/bouncing-ball.gif" width="200"> | A bouncing ball using the box2d physics library to simulate physics on a 2D space.              |
+| [2D Bouncing Ball](https://github.com/decentraland-scenes/box2d-ball-example-scene) | <img src="screenshots/bouncing-ball.gif" width="200"> | A bouncing ball using the box2d physics library to simulate physics in a 2D space.              |
 
 ### Monetization & Blockchain
 
