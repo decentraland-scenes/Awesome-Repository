@@ -207,6 +207,9 @@ https://github.com/decentraland-scenes/the-munastery
 | [UI Utils](https://github.com/decentraland/decentraland-ui-utils)         | UI Prefab components and functions for common game UI elements. Show health-bars, labels, counters, icons, prompt windows, NPC dialogs                                        |
 | [NPC Utils](https://github.com/decentraland/decentraland-npc-utils)       | Tools to easily create non-player characters (NPCs) that you can have a conversation with. They can ask quesions, play animations, turn around to always face the player, etc |
 | [Crypto Utils](https://github.com/decentraland/decentraland-crypto-utils) | Several functions to allow you to easily carry out operations with MANA, other currencies, NFTs, the Marketplace, sign messages or anything that involves smart contracts.    |
+| [L2 Utils](https://github.com/decentraland/decentraland-l2-utils) | Several functions to allow you to easily carry out operations with MANA in a Layer 2 Ethereum network, with significantly reduced gas fees and transaction delays. |
+
+
 
 <!--
 crypto library
