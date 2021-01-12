@@ -209,8 +209,7 @@ https://github.com/decentraland-scenes/the-munastery
 | [Crypto Utils](https://github.com/decentraland/decentraland-crypto-utils) | Several functions to allow you to easily carry out operations with MANA, other currencies, NFTs, the Marketplace, sign messages or anything that involves smart contracts.    |
 | [L2 Utils](https://github.com/decentraland/decentraland-l2-utils) | Several functions to allow you to easily carry out operations with MANA in a Layer 2 Ethereum network, with significantly reduced gas fees and transaction delays. |
 | [Scene Object Model (SOM)](https://github.com/rdixon22/som-dcl) | A Scene Object Model (SOM) file lists all of the GLTF or GLB models to load into a Decentraland scene. This module contains a SceneObject data structure used to define the models and their positioning in the world, and a ModelLoader class that handles the loading and positioning at runtime.|
-
-
+| [Noise Utils](https://github.com/decentraland/decentraland-noise-utils) | Tools for generating semi-random noise based on the Perlin and Simplex algorithms. These generate random sequences of values similar to the kind of randomness seen in nature.|
 
 <!--
 crypto library
