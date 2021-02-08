@@ -146,6 +146,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | ------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Block Fountain](https://github.com/decentraland-scenes/Block-Fountain)         | <img src="screenshots/fountain.png" width="200">    | The cubes in this fountain have several animations that each set can play. When a player pushes a button, all players see the same animation. |
 | [Piano Floor](https://github.com/decentraland-scenes/piano-floor-example-scene) | <img src="screenshots/piano-floor.gif" width="200"> | Play the keys of this piano by stepping on them. All players will hear the notes that are played.                                             |
+| [Digital Bouncer](https://github.com/decentraland-scenes/digital-bouncer)       | <img src="screenshots/bouncer.png" width="200">     | Grant admin players special abilities, including kick other players out, and displaying UI announcements.                                     |
 
 #### Use an API as DB
 
