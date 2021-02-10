@@ -106,12 +106,12 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 **Crypto library**
 
 | Example                                                                              | Thumbnail                                           | Description                                                                                                                         |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- |
 | [Donation Box](https://github.com/decentraland-scenes/Donations-Box)                 | <img src="screenshots/donations.png" width="200">   | Request MANA donations to a wallet.                                                                                                 |
 | [Paid Button](https://github.com/decentraland-scenes/Paid-Button)                    | <img src="screenshots/paid-button.png" width="200"> | Add a button that is only activated by paying a MANA sum to a specified address.                                                    |
 | [Paid Lever](https://github.com/decentraland-scenes/Paid-Lever)                      | <img src="screenshots/paid-lever.png" width="200">  | Add a lever that only switches state by paying a MANA sum to a specified address.                                                   |
 | [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner)        | <img src="screenshots/scanner.gif" width="200">     | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them. |     |
-| [Wearables Market](https://github.com/decentraland-scenes/Wearables-In-world-Market) | <img src="screenshots/marketplace.png" width="200"> | Fetch the cheapest on sale for each wearable and purchase it in-world. |
+| [Wearables Market](https://github.com/decentraland-scenes/Wearables-In-world-Market) | <img src="screenshots/marketplace.png" width="200"> | Fetch the cheapest on sale for each wearable and purchase it in-world.                                                              |
 
 **NFTs**
 
@@ -212,6 +212,8 @@ https://github.com/decentraland-scenes/the-munastery
 | [L2 Utils](https://github.com/decentraland/decentraland-l2-utils)         | Several functions to allow you to easily carry out operations with MANA in a Layer 2 Ethereum network, with significantly reduced gas fees and transaction delays.                                                                                                                                  |
 | [Scene Object Model (SOM)](https://github.com/rdixon22/som-dcl)           | A Scene Object Model (SOM) file lists all of the GLTF or GLB models to load into a Decentraland scene. This module contains a SceneObject data structure used to define the models and their positioning in the world, and a ModelLoader class that handles the loading and positioning at runtime. |
 | [Noise Utils](https://github.com/decentraland/decentraland-noise-utils)   | Tools for generating semi-random noise based on the Perlin and Simplex algorithms. These generate random sequences of values similar to the kind of randomness seen in nature.                                                                                                                      |
+
+> Note: To update these libraries from versions older than February 9th 2021, see the [migration guide](https://github.com/decentraland-scenes/Awesome-Repository/blob/master/lib-migration-guide.md)
 
 <!--
 crypto library
