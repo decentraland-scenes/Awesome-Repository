@@ -102,7 +102,11 @@ import { InterpolationType } from '../node_modules/decentraland-ecs-utils/transf
 
 Make sure you don't have any of those lying around in your project.
 
-You can now import these elements together with everything else. For example if you imported the `ecs-utils` lib via `import * as utils from ‘@dcl/ecs-scene-utils'`, you can access _TriggerBoxShape_ as `utils.TriggerBoxShape` and _InterpolationType_ as `utils.InterpolationType`.
+You can now import these elements together with everything else. 
+
+For example if you imported the `ecs-utils` lib via `import * as utils from ‘@dcl/ecs-scene-utils'`, you can access _TriggerBoxShape_ as `utils.TriggerBoxShape` and _InterpolationType_ as `utils.InterpolationType`.
+
+If you imported the `ui-utils` lib via ` import * as ui from '@dcl/ui-scene-utils'`, you can access _BarStyles_ as `ui.BarStyles` and _PromptStyles_ as `ui.PromptStyles`
 
 #### TriggerComponent syntax change
 
@@ -149,6 +153,6 @@ myEntity.addComponent(
 )
 ```
 
-#### Dialog object NPC only
+#### Dialog object only on NPC library
 
 The `Dialog` object was available both in the `ui-utils` library and the `npc-utils` library with the exact same list of features. To avoid this redundancy, it's now only available as part of the `npc-utils` library, with all the same syntax.
