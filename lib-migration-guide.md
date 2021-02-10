@@ -15,65 +15,65 @@ To update your projects to use the latest versions of these libraries:
 
 1. Make sure you have the latest SDK version installed
 
-```
-npm i decentraland-ecs@latest
-```
+  ```
+  npm i decentraland-ecs@latest
+  ```
 
-> Note: This is an essential step if your project uses two or more of these libraries. This latest release includes a fix that prevents the namespaces between libraries getting mixed.
+  > Note: This is an essential step if your project uses two or more of these libraries. This latest release includes a fix that prevents the namespaces between libraries getting mixed.
 
 2. If installing into a project where you already had older versions of these libraries, remove the old versions of the libraries from your project.
 
-```
-// ECS utils
-npm un decentraland-ecs-utils
+  ```
+  // ECS utils
+  npm un decentraland-ecs-utils
 
-// UI utils
-npm un @dcl/ui-utils
+  // UI utils
+  npm un @dcl/ui-utils
 
-// NPC utils
-npm un @dcl/npc-utils
+  // NPC utils
+  npm un @dcl/npc-utils
 
-// Noise utils
-npm un @dcl/noise-utils
-```
+  // Noise utils
+  npm un @dcl/noise-utils
+  ```
 
-> Note: Since the new libraries are named differently, you will otherwise keep both versions in your project, which may lead to errors.
+  > Note: Since the new libraries are named differently, you will otherwise keep both versions in your project, which may lead to errors.
 
 3. Install the new versions of the libraries that apply to your project:
 
-```
-// ECS utils
-npm i @dcl/ecs-scene-utils -B
+  ```
+  // ECS utils
+  npm i @dcl/ecs-scene-utils -B
 
-// UI utils
-npm i @dcl/ui-scene-utils -B
+  // UI utils
+  npm i @dcl/ui-scene-utils -B
 
-// NPC utils
-npm i @dcl/npc-scene-utils -B
+  // NPC utils
+  npm i @dcl/npc-scene-utils -B
 
-// Noise utils
-npm i @dcl/noise-scene-utils -B
-```
+  // Noise utils
+  npm i @dcl/noise-scene-utils -B
+  ```
 
 4. Run `dcl start` or `dcl build`. This will build the required internal folders inside the dependencies.
 
-> Note: Before you do this step, it's normal for VS Studio Code (or any other IDE you use) to mark the imports as broken.
+  > Note: Before you do this step, it's normal for VS Studio Code (or any other IDE you use) to mark the imports as broken.
 
-4. Change the lines that import the libraries into your .ts files.
+5. Change the lines that import the libraries into your .ts files to the following:
 
-```
-// ECS utils
-import * as utils from ‘@dcl/ecs-scene-utils'
+  ```
+  // ECS utils
+  import * as utils from ‘@dcl/ecs-scene-utils'
 
-// UI utils
-import * as ui from '@dcl/ui-scene-utils'
+  // UI utils
+  import * as ui from '@dcl/ui-scene-utils'
 
-// NPC utils
-import { NPC } from '@dcl/npc-scene-utils'
+  // NPC utils
+  import { NPC } from '@dcl/npc-scene-utils'
 
-// Noise utils
-import { Noise } from '@dcl/noise-utils
-```
+  // Noise utils
+  import { Noise } from '@dcl/noise-utils
+  ```
 
 ## Troubleshooting
 
