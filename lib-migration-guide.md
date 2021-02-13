@@ -66,7 +66,7 @@ To update your projects to use the latest versions of these libraries:
   npm i '@dcl/l2-scene-utils @dcl/ecs-scene-utils eth-connect -B
 
   // Noise utils
-  npm i @dcl/noise-scene-utils -B
+  npm i @dcl/noise-utils -B
   ```
 
 	> Note: The Crypto Utils and Layer 2 utils both require to also have installed the eth-connect library and the ECS Utils library.
