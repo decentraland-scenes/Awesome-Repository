@@ -252,3 +252,11 @@ npm i decentraland-ecs@latest
 2) Manually delete all of the _paths_ property from `tsconfig.json`. 
 
 3) Run `dcl start` or `dcl build` for a new _paths_ property to get correctly written into the `tsconfig.json` file.
+
+#### Cached syntax checks
+
+Some IDEs like VS Studio Code cache the information used to mark errors in your code. If you just switched from an older version of a utils library to a newer one, your IDE might have not taken these changes into account, and sometimes still be corrects your code as if it were using the older version of the utils library.
+
+This will result in lines of the new syntax being marked as errors and in lines that are no longer valid being left ignored. If you run the scene with `dcl start` then it should work in spite of the false errors being marked, but it makes debugging very hard.
+
+To fix this, simply close the VS Studio Code window and open it again. Your IDE will then be forced to check the dependencies anew and use the new versions correctly.
