@@ -63,7 +63,7 @@ To update your projects to use the latest versions of these libraries:
   npm i @dcl/crypto-scene-utils  @dcl/ecs-scene-utils eth-connect -B
 
   // Layer 2 utils
-  npm i '@dcl/l2-scene-utils @dcl/ecs-scene-utils eth-connect -B
+  npm i @dcl/l2-scene-utils @dcl/ecs-scene-utils eth-connect -B
 
   // Noise utils
   npm i @dcl/noise-utils -B
@@ -79,7 +79,7 @@ To update your projects to use the latest versions of these libraries:
 
   ```
   // ECS utils
-  import * as utils from ‘@dcl/ecs-scene-utils'
+  import * as utils from '@dcl/ecs-scene-utils'
 
   // UI utils
   import * as ui from '@dcl/ui-scene-utils'
