@@ -112,11 +112,11 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 **Crypto library**
 
 | Example                                                                              | Thumbnail                                           | Description                                                                                                                         |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ------------------------------------------------------------------------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Donation Box](https://github.com/decentraland-scenes/Donations-Box)                 | <img src="screenshots/donations.png" width="200">   | Request MANA donations to a wallet.                                                                                                 |
 | [Paid Button](https://github.com/decentraland-scenes/Paid-Button)                    | <img src="screenshots/paid-button.png" width="200"> | Add a button that is only activated by paying a MANA sum to a specified address.                                                    |
 | [Paid Lever](https://github.com/decentraland-scenes/Paid-Lever)                      | <img src="screenshots/paid-lever.png" width="200">  | Add a lever that only switches state by paying a MANA sum to a specified address.                                                   |
-| [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner)        | <img src="screenshots/scanner.gif" width="200">     | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them. |     |
+| [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner)        | <img src="screenshots/scanner.gif" width="200">     | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them. |
 | [Wearables Market](https://github.com/decentraland-scenes/Wearables-In-world-Market) | <img src="screenshots/marketplace.png" width="200"> | Fetch the cheapest on sale for each wearable and purchase it in-world.                                                              |
 
 **NFTs**
