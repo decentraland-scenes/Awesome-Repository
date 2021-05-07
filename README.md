@@ -164,7 +164,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [3D Voxel Art Creator](https://github.com/decentraland-scenes/voxel-art-creator) | <img src="screenshots/voxel.png" width="200">       | Create 3D voxel art by placing cubes in place. Players are synced through both the messagebus and a DB in a server.                   |
 | [Zenquencer](https://github.com/decentraland-scenes/Zenquencer)                  | <img src="screenshots/zenquencer.gif" width="200">  | Create musical patterns that are played in sequence. Players are synced through both the messagebus and a DB in a server.             |
 
-#### WebSockets
+#### Plain WebSockets
 
 | Example                                                                           | Thumbnail                                                 | Description                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -173,8 +173,21 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Bouncing Balls](https://github.com/decentraland-scenes/websocket-bouncing-balls) | <img src="screenshots/balls.gif" width="200">             | Each player runs physics client side. Websockets sends information about new forces applied to the entities. The broadcast server syncs these changes to all other players in the same realm. |
 | [Frisbee Throwing](https://github.com/decentraland-scenes/websocket-frisbee)      | <img src="screenshots/frisbee.gif" width="200">           | Each player runs physics client side. Websockets sends information about the throwing of the frisbee. The frisbee is hidden when picked up by a player.                                       |
 | [Basketball](https://github.com/decentraland-scenes/websocket-basket)             | <img src="screenshots/basket.gif" width="200">            | Each player runs physics client side. Websockets sends information about the throwing of the ball. The ball is hidden when picked up by a player.                                             |
-| [Land Flipper Game](https://github.com/decentraland-scenes/Land-Flipper-Game)     | <img src="screenshots/land-flipper-game.gif" width="200"> | A team game for 2 players or more, where tiles switch colors when walked on. The server keeps track of the game's state, and has the final word about when the game ends and who won.         |
 | [Discord Chat](https://github.com/decentraland-scenes/discordWebsocket)           |                                                           | Display messages being posted to Decentraland discord server in real time inside the world                                                                                                    |
+
+
+
+
+
+
+#### Colyseus
+
+| Example                                                                           | Thumbnail                                                 | Description                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Cube Jumper](https://github.com/colyseus/decentraland)           | <img src="screenshots/colyseus.png" width="200">                                    | A basic server that broadcasts all messages it receives to all other players in a room.                                                                                                       |
+| [Land Flipper Game](https://github.com/decentraland-scenes/Land-Flipper-Game)     | <img src="screenshots/land-flipper-game.gif" width="200"> | A team game for 2 players or more, where tiles switch colors when walked on. The server keeps track of the game's state, and has the final word about when the game ends and who won.         |
+| [Space Traitor](https://github.com/decentraland-scenes/Space-Traitor)           |                <img src="screenshots/traitor.jpeg" width="200">                                            | A game of deceit and secret identities. One player is randomly assigned as the trator, that will work against the others to sabotage the space ship.                                                                                                  |
+
 
 ### Full scenes
 
