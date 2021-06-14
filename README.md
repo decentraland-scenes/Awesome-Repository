@@ -195,29 +195,16 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Genesis Plaza](https://github.com/decentraland-scenes/Genesis-Plaza)                                                 | <img src="screenshots/genesis.jpg" width="200">           | The full code used in Genesis Plaza (0,0), including all the interactive elements found there.                                                                                       |
 | [Soho Plaza](https://github.com/decentraland-scenes/Soho-Plaza)                                                       | <img src="screenshots/soho.png" width="200">              | The full code used in Soho Plaza (-75,0), including all the interactive elements found there.                                                                                        |
 | [Castaway 2048](https://github.com/decentraland-scenes/Castaway-2048)                                                 | <img src="screenshots/2048.png" width="200">              | A puzzle game based on 2048, where you merge similar gems into valuable ones, till you reach the value of 2048.                                                                      |
+### Smart items
 
-<!--
+This repository contains all of the smart items created and mantained by the Decentraland Foundation that can be used in the Builder:
 
-### NO GO
+[Smart Items](https://github.com/decentraland/smart-items)
 
-... let's debate if we want any of these:
+Feel free to reuse and adapt the code and models in these to create your own smart items.
 
+Learn more about how to create custom smart itmes in the [SKD documentation](docs.decentraland.org/development-guide/smart-items/)
 
-
-https://github.com/decentraland-scenes/Mining-rocks
-
-https://github.com/decentraland-scenes/Tower-defense
-
-https://github.com/decentraland-scenes/Remote-mural
-
-https://github.com/decentraland-scenes/Remote-door
-
-https://github.com/decentraland-scenes/MANA-Transaction
-
-https://github.com/decentraland-scenes/the-munastery
-
-|[Memory Game](https://github.com/decentraland-scenes/Memory-game)|
--->
 
 ## Libraries
 
