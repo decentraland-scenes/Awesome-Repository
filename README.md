@@ -97,7 +97,15 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Switchboard Platforms](https://github.com/decentraland-scenes/switchboard-platforms)     | <img src="screenshots/switchboard-platforms.gif" width="200">   | A platform that moves when the player stands on one of the switches.                                                                            |
 | [Tin Can Alley](https://github.com/decentraland-scenes/tin-can-alley)                     | <img src="screenshots/tin-can-alley.gif" width="200">           | A tin-can-alley scene built using cannon.js physics engine.                                                                                     |
 | [Translocator](https://github.com/decentraland-scenes/translocator)                       | <img src="screenshots/translocator.gif" width="200">            | Example of how to create a projectile with physics and combining that with the new spawn feature to create a translocator disc.                 |
-| [Zombie Attack](https://github.com/decentraland-scenes/zombie-attack)                     | <img src="screenshots/zombie-attack.gif" width="200">           | A zombie will chase you around and attack you once it gets near.                                                                                |
+| [Zombie Attack](https://github.com/decentraland-scenes/zombie-attack)                     | <img src="screenshots/zombie-attack.gif" width="200">           | A zombie will chase you around and attack you once it gets near.    
+
+#### Event hosting
+
+| Example                                                                             | Thumbnail                                             | Description                                                                                     |
+| ----------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [Video Streaming](https://github.com/decentraland-scenes/video-streaming)       | <img src="screenshots/video.png" width="200">         | A video streamed from an external URL. The repo includes instructions for various alternatives for uploading the video content.|                                                                            |
+| [POAP Booth](https://github.com/decentraland-scenes/POAP-Booth)                | <img src="screenshots/POAP.png" width="200">       | Interact with the [POAP](https://www.poap.xyz/) contract to mint a POAP token when clicking on a booth.             |
+| [Digital Bouncer](https://github.com/decentraland-scenes/digital-bouncer)       | <img src="screenshots/bouncer.png" width="200">     | Grant admin players special abilities, including kick other players out, and displaying UI announcements.                                     |
 
 #### Physics
 
@@ -134,7 +142,6 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | Example                                                                        | Thumbnail                                          | Description                                                                                                         |
 | ------------------------------------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | [MANA Burning](https://github.com/decentraland-scenes/MANA-Burning-Altar)      | <img src="screenshots/mana-altar.png" width="200"> | Interact with the MANA contract to burn MANA fees collected over time by the Market place in a ceremonious way.     |
-| [POAP Booth](https://github.com/decentraland-scenes/POAP-Booth)                | <img src="screenshots/POAP.png" width="200">       | Interact with the [POAP](https://www.poap.xyz/) contract to mint a POAP token when clicking on a booth.             |
 | [Mint Pixelchain NFT](https://github.com/decentraland/pixel-chain-mural-scene) | <img src="screenshots/pixelchain.png" width="200"> | Paint a mural made from 32 x 32 pixels. You can then mint the image as a [PixelChain](https://pixelchain.art/) NFT. |
 
 ### Multiplayer & APIs
@@ -154,7 +161,6 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | ------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Block Fountain](https://github.com/decentraland-scenes/Block-Fountain)         | <img src="screenshots/fountain.png" width="200">    | The cubes in this fountain have several animations that each set can play. When a player pushes a button, all players see the same animation. |
 | [Clap Meter](https://github.com/decentraland-scenes/clap-meter)         | <img src="screenshots/clap-meter.gif" width="200">    | A meter that goes up based on the number of claps from players applauding in the scene. |
-| [Digital Bouncer](https://github.com/decentraland-scenes/digital-bouncer)       | <img src="screenshots/bouncer.png" width="200">     | Grant admin players special abilities, including kick other players out, and displaying UI announcements.                                     |
 | [Piano Floor](https://github.com/decentraland-scenes/piano-floor-example-scene) | <img src="screenshots/piano-floor.gif" width="200"> | Play the keys of this piano by stepping on them. All players will hear the notes that are played.                                             |
 
 #### Use an API as DB
