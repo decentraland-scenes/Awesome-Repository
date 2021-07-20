@@ -99,6 +99,10 @@ To update your projects to use the latest versions of these libraries:
 
 ## Troubleshooting
 
+#### Didn't run the scene
+
+There are dependencies inside these folders that get generated only when running `dcl start`. It's normal for the paths to the libraries and their elements to not be recognized by your IDE if you still didn't run the scene. Once you run `dcl start`, these dependencies should be generated inside `node_modules` and your IDE should recognize them correctly.
+
 #### Avoid importing from /node_modules directly
 
 Make sure you aren't doing additional imports of types or objects from these libraries via a path in the `node_modules` folder.
@@ -202,6 +206,36 @@ Make sure your project has the latest versions of both these dependencies:
 ```
 npm i @dcl/ecs-scene-utils eth-connect -B
 ```
+
+#### Missing paths on tsconfig
+
+On some machines, it seems that the `paths` property on tsconfig.json doesn't get automatically generated as it should when running the scene for the first time. It's unclear why this happens on some machines, could be related to the configuration of Node on the machine, but it can be fixed by manually including this info on the `tsconfig.json` file.
+
+Open the `tsconfig.json` file, and add a `paths` object, including an entry for each of the libraries your project needs. For example:
+
+
+```json
+"paths": {
+      "@dcl/ecs-scene-utils": [
+        "node_modules/@dcl/ecs-scene-utils/dist/index.d.ts"
+      ],
+        "@dcl/ui-scene-utils": [
+        "node_modules/@dcl/ui-scene-utils/dist/index.d.ts"
+      ],
+       "@dcl/crypto-scene-utils": [
+        "node_modules/@dcl/crypto-scene-utils/dist/index.d.ts"
+      ],
+      "eth-connect": [
+        "node_modules/eth-connect/eth-connect.d.ts"
+      ],
+      "@dcl/npc-scene-utils": [
+        "node_modules/@dcl/npc-scene-utils/dist/index.d.ts"
+      ]
+    }
+```
+
+
+
 
 #### Overlapping paths
 
