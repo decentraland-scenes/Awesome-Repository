@@ -215,23 +215,30 @@ Open the `tsconfig.json` file, and add a `paths` object, including an entry for 
 
 
 ```json
-"paths": {
-      "@dcl/ecs-scene-utils": [
-        "node_modules/@dcl/ecs-scene-utils/dist/index.d.ts"
-      ],
-        "@dcl/ui-scene-utils": [
-        "node_modules/@dcl/ui-scene-utils/dist/index.d.ts"
-      ],
-       "@dcl/crypto-scene-utils": [
-        "node_modules/@dcl/crypto-scene-utils/dist/index.d.ts"
-      ],
-      "eth-connect": [
-        "node_modules/eth-connect/eth-connect.d.ts"
-      ],
-      "@dcl/npc-scene-utils": [
-        "node_modules/@dcl/npc-scene-utils/dist/index.d.ts"
-      ]
-    }
+  "compilerOptions": {
+    "outFile": "./bin/game.js",
+    "allowJs": true,
+    "strict": true,
+    "paths": {
+          "@dcl/ecs-scene-utils": [
+            "node_modules/@dcl/ecs-scene-utils/dist/index.d.ts"
+          ],
+            "@dcl/ui-scene-utils": [
+            "node_modules/@dcl/ui-scene-utils/dist/index.d.ts"
+          ],
+           "@dcl/crypto-scene-utils": [
+            "node_modules/@dcl/crypto-scene-utils/dist/index.d.ts"
+          ],
+          "eth-connect": [
+            "node_modules/eth-connect/eth-connect.d.ts"
+          ],
+          "@dcl/npc-scene-utils": [
+            "node_modules/@dcl/npc-scene-utils/dist/index.d.ts"
+          ]
+        }
+    "baseUrl": "."
+  },
+
 ```
 
 
