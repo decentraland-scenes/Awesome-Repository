@@ -235,10 +235,9 @@ Open the `tsconfig.json` file, and add a `paths` object, including an entry for 
           "@dcl/npc-scene-utils": [
             "node_modules/@dcl/npc-scene-utils/dist/index.d.ts"
           ]
-        }
+        },
     "baseUrl": "."
-  },
-
+  }
 ```
 
 
