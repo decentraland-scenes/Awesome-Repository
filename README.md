@@ -155,6 +155,12 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Events API](https://github.com/decentraland-scenes/Events-API)                 | <img src="screenshots/events.png" width="200">     | Query the Decentraland Events API for any events that are currently active to display their info. If more than one, flip through them on the display.                                                         |
 | [Weather Simulation](https://github.com/decentraland-scenes/Weather-simulation) | <img src="screenshots/weather.png" width="200">    | Check a weather API, then represent the weather conditions, whatever they are.                                                                                                                                |
 
+#### Run server-side validations
+
+| Example                                                                         | Thumbnail                                          | Description                                                                                                                                                                                                   |
+| ------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Validate Player Authenticity](https://github.com/decentraland-scenes/validate-player-authenticity)                 | <img src="screenshots/signed-fetch.png" width="200"> | Hit a server that validates that the player really is in Decentraland, in a specific parcel, with a recent time-stamp, and signed a message cryptographically with their ephemeral key.     
+
 #### Use message bus
 
 | Example                                                                         | Thumbnail                                           | Description                                                                                                                                   |
