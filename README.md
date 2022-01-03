@@ -98,6 +98,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Tin Can Alley](https://github.com/decentraland-scenes/tin-can-alley)                     | <img src="screenshots/tin-can-alley.gif" width="200">           | A tin-can-alley scene built using cannon.js physics engine.                                                                                     |
 | [Translocator](https://github.com/decentraland-scenes/translocator)                       | <img src="screenshots/translocator.gif" width="200">            | Example of how to create a projectile with physics and combining that with the new spawn feature to create a translocator disc.                 |
 | [Zombie Attack](https://github.com/decentraland-scenes/zombie-attack)                     | <img src="screenshots/zombie-attack.gif" width="200">           | A zombie will chase you around and attack you once it gets near.    
+| [Block Smart Wearables](https://github.com/decentraland-scenes/block-portable-experiences)                     | <img src="screenshots/deny-portables.png" width="200">           | Players wearing smart wearables are blocked from certain aspects of the scene, to prevent unfair advantages over others.   
 
 #### Event hosting
 
