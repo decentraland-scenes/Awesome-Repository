@@ -297,8 +297,8 @@ The full code from the tutorial is available in this [repository](https://github
 | Video                                                                       | Description                                                                                                                                                 |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Add a collider](www.youtube.com/watch?v=UrByRRwfGjY)                       | Add a collider to an existing 3D model, to prevent players from walking through it.                                                                         |
-| [Add predefined animations](https://www.youtube.com/watch?v=7RSsBmm-rVs)    | Download a freely licenced 3D model from Google Poly, and apply free animations that you can download from Mixamo to it.                                    |
-| [Create animations in Blender](https://www.youtube.com/watch?v=eiHI-B5cH4k) | Download a freely licenced 3D model from Google Poly, import it into Blender and then create an _armature_ to manually create your own _animations_ for it. |
+| [Add predefined animations](https://www.youtube.com/watch?v=7RSsBmm-rVs)    | Download a freely licenced 3D model and apply free animations that you can download from Mixamo to it.                                    |
+| [Create animations in Blender](https://www.youtube.com/watch?v=eiHI-B5cH4k) | Download a freely licenced 3D model, import it into Blender and then create an _armature_ to manually create your own _animations_ for it. |
 
 ## Copyright info
 
