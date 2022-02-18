@@ -108,6 +108,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [POAP Booth](https://github.com/decentraland-scenes/POAP-Booth)           | <img src="screenshots/POAP.png" width="200">         | Interact with the [POAP](https://www.poap.xyz/) contract to mint a POAP token when clicking on a booth.                         |
 | [Digital Bouncer](https://github.com/decentraland-scenes/digital-bouncer) | <img src="screenshots/bouncer.png" width="200">      | Grant admin players special abilities, including kick other players out, and displaying UI announcements.                       |
 | [Lazy Loading](https://github.com/decentraland-scenes/lazy-loading)       | <img src="screenshots/lazy-loading.gif" width="200"> | Only load certain entities when the player walks into a room or region.                                                         |
+| [Auto Dance Areas](https://github.com/decentraland-scenes/Auto-Dance-Area)       | <img src="screenshots/autodance.gif" width="200"> | Make players dance in a loop when they stand in certain areas of your scene.                                                      |
 
 #### Physics
 
