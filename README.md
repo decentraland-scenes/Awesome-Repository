@@ -111,6 +111,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Auto Dance Areas](https://github.com/decentraland-scenes/Auto-Dance-Area)       | <img src="screenshots/autodance.gif" width="200"> | Make players dance in a loop when they stand in certain areas of your scene.                                                      |
 | [Show Management](https://github.com/decentraland-scenes/show-management)       | <img src="screenshots/show-management.png" width="200"> |  Schedule the start of a video, then sync the timing of actions in the scene to the video                      |
 
+
 #### Physics
 
 | Example                                                                             | Thumbnail                                             | Description                                                                                     |
@@ -121,12 +122,13 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 
 ### Monetization & Blockchain
 
-**Crypto library**
+**Crypto libraries**
 
 | Example                                                                       | Thumbnail                                                 | Description                                                                                                                         |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Donation Box](https://github.com/decentraland-scenes/Donations-Box)          | <img src="screenshots/donations.png" width="200">         | Request MANA donations to a wallet.                                                                                                 |
 | [NFT Scanner Basic](https://github.com/decentraland-scenes/nft-scanner-basic) | <img src="screenshots/nft-scanner-basic.gif" width="200"> | Checks whether the player owns a token from a particular smart contract before granting them permission to enter the club.          |
+| [DCL Access](https://github.com/decentraland-scenes/dcl-access-library)       | <img src="screenshots/dcl-access.png" width="200"> |  Check for token or wearable ownership to easily control access to a scene area                    |
 | [Paid Button](https://github.com/decentraland-scenes/Paid-Button)             | <img src="screenshots/paid-button.png" width="200">       | Add a button that is only activated by paying a MANA sum to a specified address.                                                    |
 | [Paid Lever](https://github.com/decentraland-scenes/Paid-Lever)               | <img src="screenshots/paid-lever.png" width="200">        | Add a lever that only switches state by paying a MANA sum to a specified address.                                                   |
 | [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner) | <img src="screenshots/scanner.gif" width="200">           | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them. |
@@ -207,11 +209,13 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 
 | Example                                                                                                   | Thumbnail                                                 | Description                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Escape Room Tutorial](https://github.com/decentraland-scenes/dcl-escape-room-tutorial)                   | <img src="screenshots/escape-room.png" width="200">       | An escape room full of puzzles to solve. A [video tutorial series](https://hardlydifficult.github.io/dcl-escape-room-tutorial/) covers how to make it, starting from the essentials. |
 | [Crypto Valley Conference Center](https://github.com/decentraland-scenes/crypto-valley-conference-center) | <img src="screenshots/conference-center.png" width="200"> | A fully equipeped venue ready for live events, with video streaming and POAP dispenser.                                                                                              |
 | [White Rabbit Night Club](https://github.com/decentraland-scenes/white-rabbit)                            | <img src="screenshots/rabbit.png" width="200">            | A 24/7 nightclub, with lights and smoke effects, arcade machines, and much more.                                                                                                     |
+| [Default Museum](https://github.com/decentraland-scenes/museum-template)                            | <img src="screenshots/museum-template.png" width="200">            | A simple generic museum to display NFT art and a few common additional features.                                                                                                   |
+| [Default Wearables Store](https://github.com/decentraland-scenes/store-template)                            | <img src="screenshots/store-template.png" width="200">            | A simple generic store to sell wearables, with a few common additional features.                                                                                                     |
 | [Genesis Plaza](https://github.com/decentraland-scenes/Genesis-Plaza)                                     | <img src="screenshots/genesis.jpg" width="200">           | The full code used in Genesis Plaza (0,0), including all the interactive elements found there.                                                                                       |
 | [Soho Plaza](https://github.com/decentraland-scenes/Soho-Plaza)                                           | <img src="screenshots/soho.png" width="200">              | The full code used in Soho Plaza (-75,0), including all the interactive elements found there.                                                                                        |
+| [Escape Room Tutorial](https://github.com/decentraland-scenes/dcl-escape-room-tutorial)                   | <img src="screenshots/escape-room.png" width="200">       | An escape room full of puzzles to solve. A [video tutorial series](https://hardlydifficult.github.io/dcl-escape-room-tutorial/) covers how to make it, starting from the essentials. |
 | [Castaway 2048](https://github.com/decentraland-scenes/Castaway-2048)                                     | <img src="screenshots/2048.png" width="200">              | A puzzle game based on 2048, where you merge similar gems into valuable ones, till you reach the value of 2048.                                                                      |
 
 ### Smart items
