@@ -100,9 +100,8 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Translocator](https://github.com/decentraland-scenes/translocator)                        | <img src="screenshots/translocator.gif" width="200">            | Example of how to create a projectile with physics and combining that with the new spawn feature to create a translocator disc.                 |
 | [Zombie Attack](https://github.com/decentraland-scenes/zombie-attack)                      | <img src="screenshots/zombie-attack.gif" width="200">           | A zombie will chase you around and attack you once it gets near.                                                                                |
 | [Block Smart Wearables](https://github.com/decentraland-scenes/block-portable-experiences) | <img src="screenshots/deny-portables.png" width="200">          | Players wearing smart wearables are blocked from certain aspects of the scene, to prevent unfair advantages over others.                        |
-| [uv projector](hhttps://github.com/decentraland-scenes/uv-projector) | <img src="screenshots/uv-projector.gif" width="200">          |  Use UVs to map a video to multiple surfaces, constructing a single image that adjusts as the player changes their angle.                    |
+| [uv projector](https://github.com/decentraland-scenes/uv-projector) | <img src="screenshots/uv-projector.gif" width="200">          |  Use UVs to map a video to multiple surfaces, constructing a single image that adjusts as the player changes their angle.                    |
 | [Bird field](hhttps://github.com/decentraland-scenes/bird-field) | <img src="screenshots/bird.gif" width="200">          |  Control a flock of birds so that they each take off when you walk near. They can then land back on uneven terrain.                    |
-
 
 
 #### Event hosting
