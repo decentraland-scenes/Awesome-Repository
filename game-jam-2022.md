@@ -1,7 +1,7 @@
 
 # Game Jam May/June 2022
 
-From mid August to mid June on 2022, the Decentraland creator community engaged in a game jam competition, creating a wild assortments of scenes. Most of these creators kindly shared their code on open repos as open source projects. 
+From mid May to mid June on 2022, the Decentraland creator community engaged in a game jam competition, creating a wild assortments of scenes. Most of these creators kindly shared their code on open repos as open source projects. 
 
 [Game Jam announcement](https://decentraland.org/blog/announcements/the-2022-decentraland-game-jam-is-here/)
 
