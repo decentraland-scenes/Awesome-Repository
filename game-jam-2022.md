@@ -18,7 +18,7 @@ Below, you can explore the code for these scenes. If you borrow anything, please
 | 3rd Place | **Castle** by ai_avatars | [link](https://github.com/aiavatars/castle) | [Play](https://castle-dcl.herokuapp.com/?realm=v1%7Ecastle-dcl.herokuapp.com&renderer-branch=master&position=0%2C0) |
 | 4th Place | **Paintball** by Sleepy Gary | NA  | [Play](https://dclpaintball.herokuapp.com/?realm=v1%7Edclpaintball.herokuapp.com&renderer-branch=master&position=1%2C-1&BLE_WEB3=) |
 | 5th Place | **Ninja Ball Parkour** by Tensaix2j | [link](https://github.com/tensaix2j/decentraland_ninja_ball_parkour_multiplayer) | [Play](http://tensaistudio.xyz:8000) | 
-| 6th Place | **Stealth Mission** by OnSr | NA  | [Play](https://stealth-mission-dcl.herokuapp.com/?realm=v1~stealth-mission-dcl.herokuapp.com&renderer-branch=master&ition=0%0C1 ) |
+| 6th Place | **Stealth Mission** by OnSr | [link](https://github.com/BeytoA/stealth_mission)  | [Play](https://stealth-mission-dcl.herokuapp.com/?realm=v1~stealth-mission-dcl.herokuapp.com&renderer-branch=master&ition=0%0C1 ) |
 | 7th Place | **Mage Arena** by SnowTales Studio | [link](https://www.dropbox.com/sh/1m10vxyjox4l6e8/AAC775gFmoHUJNRbbPWi4ee7a?dl=0)  | [Play](https://magearena.herokuapp.com/) | 
 | 8th Place | **WASTELAND** by FORD TAN | [link](https://github.com/wwwDragon/wasteland)  | [Play](https://play.decentraland.zone/?kernel-branch=chore%2Fspaces&position=0%2C2&SPACE=urn:decentraland:entity:bafybeidmqkbqkpvyuvayg3kmaujapp2vwiu4rvgk6k4rvl4p2ppdgpmeey?baseUrl=https://sdk-content-server.decentraland.org/ipfs/) | 
 | 9th Place | **Tower Duel** by Gwennouw and Dicso92 | [link](https://github.com/DicSo92/dcl-tower-duel) | [Play](https://play.decentraland.org/?position=119%2C80)| 
