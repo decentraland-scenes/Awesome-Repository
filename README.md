@@ -253,6 +253,8 @@ You can access the code submitted by previous game jam competitions, for those s
 | [Scene Object Model (SOM)](https://github.com/rdixon22/som-dcl)                             | A Scene Object Model (SOM) file lists all of the GLTF or GLB models to load into a Decentraland scene. This module contains a SceneObject data structure used to define the models and their positioning in the world, and a ModelLoader class that handles the loading and positioning at runtime. |
 | [Noise Utils](https://github.com/decentraland/decentraland-noise-utils)                     | Tools for generating semi-random noise based on the Perlin and Simplex algorithms. These generate random sequences of values similar to the kind of randomness seen in nature.                                                                                                                      |
 | [DCLDash](https://github.com/pmacom/dcldash)                     | A suite of entities, debug utilities and helper functions that will speed up your decentraland SDK development. |
+| [Show Management](https://github.com/decentraland/show-management)                     | A set of tools for managing the playing of videos and video playlists, together with synchronized events in the scnene like animations. It reads subtitle-like instructions with time-stamps to match timing with the video. |
+
 
 > Note: To update these libraries from versions older than February 9th 2021, see the [migration guide](https://github.com/decentraland-scenes/Awesome-Repository/blob/master/lib-migration-guide.md)
 
