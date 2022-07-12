@@ -114,7 +114,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Lazy Loading](https://github.com/decentraland-scenes/lazy-loading)       | <img src="screenshots/lazy-loading.gif" width="200"> | Only load certain entities when the player walks into a room or region.                                                         |
 | [Auto Dance Areas](https://github.com/decentraland-scenes/Auto-Dance-Area)       | <img src="screenshots/autodance.gif" width="200"> | Make players dance in a loop when they stand in certain areas of your scene.                                                      |
 | [Show Management](https://github.com/decentraland-scenes/show-management)       | <img src="screenshots/show-management.png" width="200"> |  Schedule the start of a video, then sync the timing of actions in the scene to the video                      |
-
+| [Green Screen](https://github.com/decentraland-scenes/greenScreen)                 | <img src="screenshots/green-screen.png" width="200">           | A simple scene with a green screen that can be used for photoshoots. You can change the background color too.                                                  |
 
 #### Physics
 
