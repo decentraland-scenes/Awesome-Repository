@@ -102,6 +102,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Block Smart Wearables](https://github.com/decentraland-scenes/block-portable-experiences) | <img src="screenshots/deny-portables.png" width="200">          | Players wearing smart wearables are blocked from certain aspects of the scene, to prevent unfair advantages over others.                        |
 | [uv projector](https://github.com/decentraland-scenes/uv-projector) | <img src="screenshots/uv-projector.gif" width="200">          |  Use UVs to map a video to multiple surfaces, constructing a single image that adjusts as the player changes their angle.                    |
 | [Bird field](https://github.com/decentraland-scenes/bird-field) | <img src="screenshots/bird.gif" width="200">          |  Control a flock of birds so that they each take off when you walk near. They can then land back on uneven terrain.                    |
+| [Boolean Hole + Proximity Spheres](https://github.com/decentraland-scenes/boolean-hole-and-proximity-spheres) | <img src="screenshots/boolean-hole-proxi-spheres.png" width="200">          |  Demonstrates several objects that react to your proximity.  Simulates a Boolean Hole in a wall, has objects that move over/around you, triggers to activate effects inside or outside the building.                    |
 
 
 #### Event hosting
