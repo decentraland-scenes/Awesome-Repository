@@ -116,6 +116,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Auto Dance Areas](https://github.com/decentraland-scenes/Auto-Dance-Area)       | <img src="screenshots/autodance.gif" width="200"> | Make players dance in a loop when they stand in certain areas of your scene.                                                      |
 | [Show Management](https://github.com/decentraland-scenes/show-management)       | <img src="screenshots/show-management.png" width="200"> |  Schedule the start of a video, then sync the timing of actions in the scene to the video                      |
 | [Green Screen](https://github.com/decentraland-scenes/greenScreen)                 | <img src="screenshots/green-screen.png" width="200">           | A simple scene with a green screen that can be used for photoshoots. You can change the background color too.                                                  |
+| [Video UV Mapping to Archways](https://github.com/decentraland-scenes/video-uv-mapping-to-archways) | <img src="screenshots/arches-uv.png" width="200">          |  Demonstrates how to UV map a video texture onto many many planes                    |
 
 #### Physics
 
