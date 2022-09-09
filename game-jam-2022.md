@@ -15,7 +15,7 @@ Below, you can explore the code for these scenes. If you borrow anything, please
 |---|---|---|---|
 | 1st Place | **Rift Arena** by Dax and VeX | [link](https://github.com/daxadax/gamejam-22) | [Play](https://dcl-gamejam-22.herokuapp.com/?realm=localhost-stub&renderer-branch=master) |
 | 2nd Place | **Flower Power DCL** by Shiny | [link](https://github.com/ShinyDCL/flower-power) | [Play](https://flower-power-dcl.herokuapp.com/?realm=localhost-stub&renderer-branch=master&position=0,0) |
-| 3rd Place | **Castle** by ai_avatars | [link](https://github.com/aiavatars/castle) | [Play](https://castle-dcl.herokuapp.com/?realm=v1%7Ecastle-dcl.herokuapp.com&renderer-branch=master&position=0%2C0) |
+| 3rd Place | **Castle** by ai_avatars | NA | [Play](https://castle-dcl.herokuapp.com/?realm=v1%7Ecastle-dcl.herokuapp.com&renderer-branch=master&position=0%2C0) |
 | 4th Place | **Paintball** by Sleepy Gary | NA  | [Play](https://dclpaintball.herokuapp.com/?realm=v1%7Edclpaintball.herokuapp.com&renderer-branch=master&position=1%2C-1&BLE_WEB3=) |
 | 5th Place | **Ninja Ball Parkour** by Tensaix2j | [link](https://github.com/tensaix2j/decentraland_ninja_ball_parkour_multiplayer) | [Play](http://tensaistudio.xyz:8000) | 
 | 6th Place | **Stealth Mission** by OnSr | [link](https://github.com/BeytoA/stealth_mission)  | [Play](https://stealth-mission-dcl.herokuapp.com/?realm=v1~stealth-mission-dcl.herokuapp.com&renderer-branch=master&ition=0%0C1 ) |
