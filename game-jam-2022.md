@@ -13,7 +13,7 @@ Below, you can explore the code for these scenes. If you borrow anything, please
 
 | Place  | Game & Creator | Code | Link to Play |
 |---|---|---|---|
-| 1st Place | **Rift Arena** by Dax and VeX | NA | [Play](https://dcl-gamejam-22.herokuapp.com/?realm=localhost-stub&renderer-branch=master) |
+| 1st Place | **Rift Arena** by Dax and VeX | [link](https://github.com/daxadax/gamejam-22) | [Play](https://dcl-gamejam-22.herokuapp.com/?realm=localhost-stub&renderer-branch=master) |
 | 2nd Place | **Flower Power DCL** by Shiny | [link](https://github.com/ShinyDCL/flower-power) | [Play](https://flower-power-dcl.herokuapp.com/?realm=localhost-stub&renderer-branch=master&position=0,0) |
 | 3rd Place | **Castle** by ai_avatars | [link](https://github.com/aiavatars/castle) | [Play](https://castle-dcl.herokuapp.com/?realm=v1%7Ecastle-dcl.herokuapp.com&renderer-branch=master&position=0%2C0) |
 | 4th Place | **Paintball** by Sleepy Gary | NA  | [Play](https://dclpaintball.herokuapp.com/?realm=v1%7Edclpaintball.herokuapp.com&renderer-branch=master&position=1%2C-1&BLE_WEB3=) |
