@@ -225,7 +225,16 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Soho Plaza](https://github.com/decentraland-scenes/Soho-Plaza)                                           | <img src="screenshots/soho.png" width="200">              | The full code used in Soho Plaza (-75,0), including all the interactive elements found there.                                                                                        |
 | [Escape Room Tutorial](https://github.com/decentraland-scenes/dcl-escape-room-tutorial)                   | <img src="screenshots/escape-room.png" width="200">       | An escape room full of puzzles to solve. A [video tutorial series](https://hardlydifficult.github.io/dcl-escape-room-tutorial/) covers how to make it, starting from the essentials. |
 | [Castaway 2048](https://github.com/decentraland-scenes/Castaway-2048)                                     | <img src="screenshots/2048.png" width="200">              | A puzzle game based on 2048, where you merge similar gems into valuable ones, till you reach the value of 2048.   |
-| [DecentRally](https://github.com/decentraland-scenes/decentrally)                                         | <img src="screenshots/decentrally-racing.png" width="200">| A racing game that shows what the Infinity Engine code can do.                                                                      |
+| [DecentRally](https://github.com/decentraland-scenes/decentrally)                                         | <img src="screenshots/decentrally-racing.png" width="200">| A racing game that shows what the Infinity Engine code can do.   
+
+#### Community Modules
+
+| Example                                                                       | Thumbnail                                                 | Description                                                                                                                                                                           |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Checkers Module](https://github.com/TheCryptoTrader69/Decentraland_Checkers)                     | <img src="screenshots/cm_checkers.png" width="200">      | Two player game of checkers, with fully outlined peer-to-peer networking. |
+| [NFT Gallery Module](https://github.com/TheCryptoTrader69/Decentraland_Gallery)            | <img src="screenshots/cm_gallery.png" width="200">            | Provides easy-to-use interfaces to generate NFT (2D and 3D) displays. By simply editing the JSON files a user can quickly add displays to their scene. |
+| [Parkour Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_ParkourKit)       | <img src="screenshots/cm_parkour.png" width="200">            | Provides all the tools need to create your own parkour stadium. Includes: multiple platform types, collectibles, traps, checkpoint/respawn mechanics. |
+| [Card Game Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_CardGameKit)    | <img src="screenshots/cm_cardgame.png" width="200">           | Provides all the utilities required to create card games in Decentraland. Also comes pre-packed with several card games that act as functional examples! |  |
 
 ### Smart items
 
