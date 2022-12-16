@@ -236,16 +236,6 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Parkour Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_ParkourKit)       | <img src="screenshots/cm_parkour.png" width="200">            | Provides all the tools need to create your own parkour stadium. Includes: multiple platform types, collectibles, traps, checkpoint/respawn mechanics. |
 | [Card Game Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_CardGameKit)    | <img src="screenshots/cm_cardgame.png" width="200">           | Provides all the utilities required to create card games in Decentraland. Also comes pre-packed with several card games that act as functional examples! |  |
 
-### Smart items
-
-This repository contains all of the smart items created and mantained by the Decentraland Foundation that can be used in the Builder:
-
-[Smart Items](https://github.com/decentraland/smart-items)
-
-Feel free to reuse and adapt the code and models in these to create your own smart items.
-
-Learn more about how to create custom smart itmes in the [SKD documentation](docs.decentraland.org/development-guide/smart-items/)
-
 ### Game jam winners
 
 You can access the code submitted by previous game jam competitions, for those scenes that creators chose to make open source.
