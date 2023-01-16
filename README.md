@@ -328,6 +328,15 @@ The full code from the tutorial is available in this [repository](https://github
 | [Add predefined animations](https://www.youtube.com/watch?v=7RSsBmm-rVs)    | Download a freely licenced 3D model and apply free animations that you can download from Mixamo to it.                                    |
 | [Create animations in Blender](https://www.youtube.com/watch?v=eiHI-B5cH4k) | Download a freely licenced 3D model, import it into Blender and then create an _armature_ to manually create your own _animations_ for it. |
 
+
+### DevOps
+
+| Video                                                                       | Description                                                                                                                                                 |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Auto Deploy With Git Actions ](https://youtu.be/desIuzZeBkc)               | How to use git actions to deploy a scene from a branch.  [Code Here](https://github.com/decentraland-scenes/git-actions-auto-deploy)                                                                        |
+
+
+
 ## Copyright info
 
 All of these scenes are open source, protected with a standard Apache 2 licence. This licence states that this content can be used freely, even commercially, as long as you acknowledge the author. See the terms and conditions in the [LICENSE](/LICENSE) file.
