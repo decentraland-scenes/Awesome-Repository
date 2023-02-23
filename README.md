@@ -228,7 +228,8 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [MVMF 2022 Main Stage](https://github.com/decentraland-scenes/metaverse-festival22-main-stage)                                         | <img src="screenshots/mvmf22_main_stage.png" width="200">| Assets and code used for the Metaverse Music Festival (MVMF) 2022 Main Stage Scene                                                                      |
 | [MVMF 2022 Tower of Babel](https://github.com/decentraland-scenes/metaverse-festival22-tower-of-babel)                                         | <img src="screenshots/mvmf22_tower_of_babel.png" width="200">| Assets and code used for the Metaverse Music Festival (MVMF) 2022 Tower of Babel Scene                                                                    |
 | [Snowball Arena](https://github.com/decentraland-scenes/snowball-xmas-arena)                                         | <img src="screenshots/snowballfight-arena.png" width="200">| Multiplayer Snowball Fight Arena                                                                    |
-
+| [Dhingia Builds](https://github.com/MrDhingia/DhingiaBuilds) | <img src="screenshots/dhingia-builds.png" width="200">| 35+ Opensource builds and assets for Decentraland by MrDhingia.
+|
 
 #### Community Modules
 
