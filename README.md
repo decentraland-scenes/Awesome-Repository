@@ -29,7 +29,6 @@ Visit the Discord channel
 
 | Article                                                                                                             | Thumbnail                                           | Description                                                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [SDK functionality to a Builder scene](https://decentraland.org/blog/tutorials/adding-functionality-builder-scene/) | <img src="screenshots/builder.jpg" width="200">     | Take an exported Builder scene and understand how to edit its code to add more functionality.                                    |
 | [Introduction to Entities, Components & Systems](https://decentraland.org/blog/tutorials/intro-to-sdk-v5/)          | <img src="screenshots/hypnowheels.png" width="200"> | A walkthrough that starts from scratch and covers most of the main ideas to understand: Entities, Components, Systems, and more. |
 | [Motion & Animations - Part 1](https://decentraland.org/blog/tutorials/motion-animations-in-SDK-5/)                 | <img src="screenshots/gnark1.gif" width="200">      | A walkthrough that covers animating an entity and making it move to follow a path.                                               |
 | [Motion & Animations - Part 2](https://decentraland.org/blog/tutorials/motion-animations-in-SDK-5-part-2/)          | <img src="screenshots/gnark.gif" width="200">       | Building up on the previous part, this part covers alternating animations, and responding to the player's proximity.             |
@@ -62,7 +61,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Smoke](https://github.com/decentraland-scenes/Smoke)                         | <img src="screenshots/smoke.png" width="200">              | Use planes to create a particle system that simulates smoke rising.                                                                                                                                                                                 |
 | [Dance Floor](https://github.com/decentraland-scenes/Dance-floor)             | <img src="screenshots/dancefloor.png" width="200">         | Combines animations, sound, and tiles on the floor that randomly change color to the beat.                                                                                                                                                          |
 | [Laser-Ray Casting](https://github.com/decentraland-scenes/Laser-ray-casting) | <img src="screenshots/laser.png" width="200">              | Use ray casting to trace a line in space and check for intersections. Cubes change material when hit by the laser. They also change when being pointed at by the player.                                                                            |
-| [UV Map](https://github.com/decentraland-scenes/uv-map)                       | <img src="screenshots/uv.gif" width="200">                 | Use ray casting to trace a line in space and check for intersections. Cubes change material when hit by the laser. They also change when being pointed at by the player.                                                                            |
+| [UV Map](https://github.com/decentraland-scenes/uv-map)                       | <img src="screenshots/uv.gif" width="200">                 | A simple scene that shows a spritesheet animation of a robot talking. The different expressions of the robot are all stored in the same image.                                                                            |
 | [Swimming in Circles](https://github.com/decentraland-scenes/Swimming-shark)  | <img src="screenshots/shark-swimming.png" width="200">     | Move a shark along the segments of a curve to swim in circles.                                                                                                                                                                                      |
 | [Block Dog](https://github.com/decentraland-scenes/Block-dog)                 | <img src="screenshots/blockdog.png" width="200">           | A simple AI character that randomly chooses what action to take: follow you, sit or remain idle. Tell it to sit or stand up by clicking it, or tell it to drink water by clicking its bowl.                                                         |
 | [Workspaces](https://github.com/decentraland-scenes/dcl-working-with-workspaces)                 | <img src="screenshots/workspaces.png" width="200">           | Use workspaces to preview multiple adjacent scenes/portable experiences at onces and see how they interact.                                                  |
@@ -228,16 +227,17 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [DecentRally](https://github.com/decentraland-scenes/decentrally)                                         | <img src="screenshots/decentrally-racing.png" width="200">| A racing game that shows what the Infinity Engine code can do.                                                                      |
 | [MVMF 2022 Main Stage](https://github.com/decentraland-scenes/metaverse-festival22-main-stage)                                         | <img src="screenshots/mvmf22_main_stage.png" width="200">| Assets and code used for the Metaverse Music Festival (MVMF) 2022 Main Stage Scene                                                                      |
 | [MVMF 2022 Tower of Babel](https://github.com/decentraland-scenes/metaverse-festival22-tower-of-babel)                                         | <img src="screenshots/mvmf22_tower_of_babel.png" width="200">| Assets and code used for the Metaverse Music Festival (MVMF) 2022 Tower of Babel Scene                                                                    |
+| [Snowball Arena](https://github.com/decentraland-scenes/snowball-xmas-arena)                                         | <img src="screenshots/snowballfight-arena.png" width="200">| Multiplayer Snowball Fight Arena                                                                    |
 
-### Smart items
 
-This repository contains all of the smart items created and mantained by the Decentraland Foundation that can be used in the Builder:
+#### Community Modules
 
-[Smart Items](https://github.com/decentraland/smart-items)
-
-Feel free to reuse and adapt the code and models in these to create your own smart items.
-
-Learn more about how to create custom smart itmes in the [SKD documentation](docs.decentraland.org/development-guide/smart-items/)
+| Example                                                                       | Thumbnail                                                 | Description                                                                                                                                                                           |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Checkers Module](https://github.com/TheCryptoTrader69/Decentraland_Checkers)                     | <img src="screenshots/cm_checkers.png" width="200">      | Two player game of checkers, with fully outlined peer-to-peer networking. |
+| [NFT Gallery Module](https://github.com/TheCryptoTrader69/Decentraland_Gallery)            | <img src="screenshots/cm_gallery.png" width="200">            | Provides easy-to-use interfaces to generate NFT (2D and 3D) displays. By simply editing the JSON files a user can quickly add displays to their scene. |
+| [Parkour Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_ParkourKit)       | <img src="screenshots/cm_parkour.png" width="200">            | Provides all the tools need to create your own parkour stadium. Includes: multiple platform types, collectibles, traps, checkpoint/respawn mechanics. |
+| [Card Game Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_CardGameKit)    | <img src="screenshots/cm_cardgame.png" width="200">           | Provides all the utilities required to create card games in Decentraland. Also comes pre-packed with several card games that act as functional examples! |  |
 
 ### Game jam winners
 
@@ -327,6 +327,15 @@ The full code from the tutorial is available in this [repository](https://github
 | [Add a collider](https://www.youtube.com/watch?v=UrByRRwfGjY)               | Add a collider to an existing 3D model, to prevent players from walking through it.                                                                         |
 | [Add predefined animations](https://www.youtube.com/watch?v=7RSsBmm-rVs)    | Download a freely licenced 3D model and apply free animations that you can download from Mixamo to it.                                    |
 | [Create animations in Blender](https://www.youtube.com/watch?v=eiHI-B5cH4k) | Download a freely licenced 3D model, import it into Blender and then create an _armature_ to manually create your own _animations_ for it. |
+
+
+### DevOps
+
+| Video                                                                       | Description                                                                                                                                                 |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Auto Deploy With Git Actions ](https://youtu.be/desIuzZeBkc)               | How to use git actions to deploy a scene from a branch.  [Code Here](https://github.com/decentraland-scenes/git-actions-auto-deploy)                                                                        |
+
+
 
 ## Copyright info
 
