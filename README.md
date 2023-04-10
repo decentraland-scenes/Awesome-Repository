@@ -255,7 +255,7 @@ Note that each library is only compatible with either SDK 6 or SDK 7, use librar
 
 | Article                                                                                     | Description                                                                                                                                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [@dcl-sdk/utils](https://github.com/decentraland/sdk7-utils)                         | A very handy collection of common tasks made simple. Gradually move, rotate or scale over time. Add trigger areas, delay an action, run an event periodically, and more!.                                                                                                                           |
+| [dcl-sdk/utils](https://github.com/decentraland/sdk7-utils)                         | A very handy collection of common tasks made simple. Gradually move, rotate or scale over time. Add trigger areas, delay an action, run an event periodically, and more!.                                                                                                                           |
 
 ### SDK 6
 
