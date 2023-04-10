@@ -249,6 +249,17 @@ You can access the code submitted by previous game jam competitions, for those s
 
 ## Libraries
 
+Note that each library is only compatible with either SDK 6 or SDK 7, use libraries that match the version of the Decentraland project you're working on.
+
+### SDK 7
+
+| Article                                                                                     | Description                                                                                                                                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [@dcl-sdk/utils](https://github.com/decentraland/sdk7-utils)                         | A very handy collection of common tasks made simple. Gradually move, rotate or scale over time. Add trigger areas, delay an action, run an event periodically, and more!.                                                                                                                           |
+
+### SDK 6
+
+
 | Article                                                                                     | Description                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [ECS Utils](https://github.com/decentraland/decentraland-ecs-utils)                         | A very handy collection of common tasks made simple. Gradually move, rotate or scale over time. Add trigger areas, delay an action, run an event periodically, and more!.                                                                                                                           |
