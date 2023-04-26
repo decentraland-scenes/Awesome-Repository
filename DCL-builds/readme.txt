@@ -1,0 +1,1 @@
+Hey DCL fam this is a testing! there will be some these builds are good to deploy though there must need some changes in different minor areas liek colliders, resassured i will update these and add more soon! will also include on how to deploy a scene using the builder.
