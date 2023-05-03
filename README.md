@@ -6,12 +6,44 @@ Welcome to the Decentraland Awesome repository!
 
 This is a large collection of example scenes, libraries, and full tutorials meant to help you build scenes for Decentraland!
 
-#####Content Index
-######[Examples](#Examples)
-- [Libraries](#Libraries)
-- [Tutorials](#Tutorials)
-- [FAQs](#FAQs)
-
+<details>
+  <summary style="color: blue;">Content Index</summary>
+ 
+#### [ Essentials](#essentials)
+- [Basics](#basics)
+- [Game Mechanics](#game-mechanics)
+- [Event Hosting](#event-hosting)
+- [Physics](#physics)
+#### [ Monetization And Blockchain](#monetization-and-blockchain)
+- [Crypto Libraries](#crypto-libraries)
+- [Displaying NFTs](#displaying-nfts)
+- [Interact Directly With Contract](#interact-directly-with-contract)
+#### [ Multiplayer and APIs](#multiplayer-and-apis)
+- [Hit an API](#hit-an-api)
+- [Run Server-Side Validations](#run-server-side-validations)
+- [Message Bus](#message-bus)
+- [Hit an API](#hit-an-api)
+- [API as Database](#api-as-database)
+- [Plain WebSockets](#plain-websockets)
+- [Colyseus](#colyseus)
+#### [ Full Scenes](#full-scenes)
+- [Public Scenes](#public-scenes)
+- [Community Modules](#community-modules)
+#### [ Game Jam Winners](#game-jam-winners)
+#### [ Libraries](#libraries)
+- [SKD 6](#sdk-6)
+- [SKD 7](#sdk-7)
+#### [ Tutorials](#tutorials)
+- [Video tutorials](#video-tutorials)
+- [Escape Room Video Tutorial Series](#escape-room-video-tutorial-series)
+- [Multiplayer and APIs](#multiplayer-and-apis)
+- [Other](#other)
+- [Guest Posts](#sdk-6)
+- [3D Modeling for Decentraland](#3d-modeling-for-decentraland)
+- [DevOps](#devops)
+ 
+</details>
+ 
 If you can think of an example that is easy to understand and covers valuable topics that aren't covered here, you're encouraged to create a **Pull Request** and [contribute](https://github.com/decentraland-scenes/Awesome-Repository/blob/master/CONTRIBUTING.md)!
 
 If something doesn’t work, please [file an issue](https://github.com/decentraland-scenes/Awesome-Repository/issues/new).
@@ -48,6 +80,8 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 
 ### Essentials
 
+#### Basics
+
 | Example                                                                       | Thumbnail                                                  | Description                                                                                                                                                                                                                                         |
 | ----------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Sliding Door](https://github.com/decentraland-scenes/Sliding-door)           | <img src="screenshots/sliding-door.png" width="200">       | Use the Utils library to shift the position of a door gradually. Clicks on the door toggle it from open to closed.                                                                                                                                  |
@@ -67,7 +101,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Block Dog](https://github.com/decentraland-scenes/Block-dog)                 | <img src="screenshots/blockdog.png" width="200">           | A simple AI character that randomly chooses what action to take: follow you, sit or remain idle. Tell it to sit or stand up by clicking it, or tell it to drink water by clicking its bowl.                                                         |
 | [Workspaces](https://github.com/decentraland-scenes/dcl-working-with-workspaces)                 | <img src="screenshots/workspaces.png" width="200">           | Use workspaces to preview multiple adjacent scenes/portable experiences at onces and see how they interact.                                                  |
 
-#### Game mechanics
+#### Game Mechanics
 
 | Example                                                                                    | Thumbnail                                                       | Description                                                                                                                                     |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -107,7 +141,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [NPC Tour Using A* Search Algorithm ](https://github.com/decentraland-scenes/npc-astar-search) | <img src="screenshots/npc-tour-astar.png" width="200">          |  Use A* Search algorithm to help guide the NPC.                  |
 
 
-#### Event hosting
+#### Event Hosting
 
 | Example                                                                   | Thumbnail                                            | Description                                                                                                                     |
 | ------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
@@ -128,9 +162,9 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Car + Physics](https://github.com/decentraland-scenes/cannon-car-example-scene)    | <img src="screenshots/cannon-car.gif" width="200">    | Drive a car through piles of boxes and see them tumble down, using cannon.js for physics.       |
 | [2D Bouncing Ball](https://github.com/decentraland-scenes/box2d-ball-example-scene) | <img src="screenshots/bouncing-ball.gif" width="200"> | A bouncing ball using the box2d physics library to simulate physics in a 2D space.              |
 
-### Monetization & Blockchain
+### Monetization and Blockchain
 
-**Crypto libraries**
+#### Crypto Libraries
 
 | Example                                                                       | Thumbnail                                                 | Description                                                                                                                         |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -142,14 +176,14 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Wearables Scanner](https://github.com/decentraland-scenes/wearables-scanner) | <img src="screenshots/scanner.gif" width="200">           | Fetch the list of wearables that a player currently has on. If they have something in the eyewear category, open the door for them. |
 | [Wearables Store](https://github.com/decentraland-scenes/wearables-store)     | <img src="screenshots/wearable-store.png" width="200">    | Display all wearables on sale on L2 and purchase them in-world. You can also configure it to only display certain collections.      |
 
-**NFTs**
+#### Displaying NFTs
 
 | Example                                                                    | Thumbnail                                             | Description                                                                                                    |
 | -------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | [Simple NFT](https://github.com/decentraland-scenes/Certified-criptokitty) | <img src="screenshots/kitty.png" width="200">         | Display a 2D NFT in a picture frame.                                                                           |
 | [NFT Wall](https://github.com/decentraland-scenes/nft-wall-example-scene)  | <img src="screenshots/nft-swap-wall.gif" width="200"> | Display a collection of 2D NFTs in picture frames, these swap every few seconds, taking data from a JSON file. |
 
-**Interact directly with contract**
+#### Interact Directly With Contract
 
 <!-- mana transaction?? -->
 
@@ -158,7 +192,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [MANA Burning](https://github.com/decentraland-scenes/MANA-Burning-Altar)      | <img src="screenshots/mana-altar.png" width="200"> | Interact with the MANA contract to burn MANA fees collected over time by the Market place in a ceremonious way.     |
 | [Mint Pixelchain NFT](https://github.com/decentraland/pixel-chain-mural-scene) | <img src="screenshots/pixelchain.png" width="200"> | Paint a mural made from 32 x 32 pixels. You can then mint the image as a [PixelChain](https://pixelchain.art/) NFT. |
 
-### Multiplayer & APIs
+### Multiplayer and APIs
 
 #### Hit an API
 
@@ -169,13 +203,13 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Events API](https://github.com/decentraland-scenes/Events-API)                 | <img src="screenshots/events.png" width="200">     | Query the Decentraland Events API for any events that are currently active to display their info. If more than one, flip through them on the display.                                                         |
 | [Weather Simulation](https://github.com/decentraland-scenes/Weather-simulation) | <img src="screenshots/weather.png" width="200">    | Check a weather API, then represent the weather conditions, whatever they are.                                                                                                                                |
 
-#### Run server-side validations
+#### Run Server-Side Validations
 
 | Example                                                                                             | Thumbnail                                            | Description                                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Validate Player Authenticity](https://github.com/decentraland-scenes/validate-player-authenticity) | <img src="screenshots/signed-fetch.png" width="200"> | Hit a server that validates that the player really is in Decentraland, in a specific parcel, with a recent time-stamp, and signed a message cryptographically with their ephemeral key. |
 
-#### Use message bus
+#### Message Bus
 
 | Example                                                                         | Thumbnail                                           | Description                                                                                                                                   |
 | ------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -183,7 +217,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Clap Meter](https://github.com/decentraland-scenes/clap-meter)                 | <img src="screenshots/clap-meter.gif" width="200">  | A meter that goes up based on the number of claps from players applauding in the scene.                                                       |
 | [Piano Floor](https://github.com/decentraland-scenes/piano-floor-example-scene) | <img src="screenshots/piano-floor.gif" width="200"> | Play the keys of this piano by stepping on them. All players will hear the notes that are played.                                             |
 
-#### Use an API as DB
+#### API as Database
 
 | Example                                                                          | Thumbnail                                           | Description                                                                                                                           |
 | -------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -213,7 +247,9 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Space Traitor](https://github.com/decentraland-scenes/Space-Traitor)         | <img src="screenshots/traitor.jpeg" width="200">          | A game of deceit and secret identities. One player is randomly assigned as the trator, that will work against the others to sabotage the space ship.                                  |
 | [OSC Relay](https://github.com/decentraland-scenes/osc-relay)                 | <img src="screenshots/osc-colyseus.gif" width="200">      | Listen to OSC messages from any source, relay them to affect Decentraland scenes in real time via a Colyseus server.                                                                  |
 
-### Full scenes
+### Full Scenes
+
+#### Public Scenes
 
 | Example                                                                                                   | Thumbnail                                                 | Description                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -240,7 +276,7 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [Parkour Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_ParkourKit)       | <img src="screenshots/cm_parkour.png" width="200">            | Provides all the tools need to create your own parkour stadium. Includes: multiple platform types, collectibles, traps, checkpoint/respawn mechanics. |
 | [Card Game Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_CardGameKit)    | <img src="screenshots/cm_cardgame.png" width="200">           | Provides all the utilities required to create card games in Decentraland. Also comes pre-packed with several card games that act as functional examples! |  |
 
-### Game jam winners
+### Game Jam Winners
 
 You can access the code submitted by previous game jam competitions, for those scenes that creators chose to make open source.
 
@@ -303,7 +339,7 @@ This series of 5 minute videos covers a number of essential concepts, game mecha
 
 The full code from the tutorial is available in this [repository](https://github.com/HardlyDifficult/dcl-escape-room-tutorial).
 
-### Multiplayer & APIs
+### Multiplayer and APIs
 
 | Article                                                                     | Description                                                                                        |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
