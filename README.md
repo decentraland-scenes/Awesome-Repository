@@ -4,9 +4,10 @@ Welcome to the Decentraland Awesome repository!
 
 <img src="screenshots/shades.png" width="150">
 
-Here you can find content to help you build scenes for Decentraland. Here you'll find links to:
+This is a large collection of example scenes, libraries, and full tutorials meant to help you build scenes for Decentraland!
 
-- [Examples](#Examples)
+#####Content Index
+######[Examples](#Examples)
 - [Libraries](#Libraries)
 - [Tutorials](#Tutorials)
 - [FAQs](#FAQs)
@@ -229,7 +230,6 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 | [MVMF 2022 Tower of Babel](https://github.com/decentraland-scenes/metaverse-festival22-tower-of-babel)                                         | <img src="screenshots/mvmf22_tower_of_babel.png" width="200">| Assets and code used for the Metaverse Music Festival (MVMF) 2022 Tower of Babel Scene                                                                    |
 | [Snowball Arena](https://github.com/decentraland-scenes/snowball-xmas-arena)                                         | <img src="screenshots/snowballfight-arena.png" width="200">| Multiplayer Snowball Fight Arena                                                                    |
 | [Dhingia Builds](https://github.com/MrDhingia/DhingiaBuilds) | <img src="screenshots/dhingia-builds.png" width="200">| 35+ Opensource builds and assets for Decentraland by MrDhingia.
-|
 
 #### Community Modules
 
