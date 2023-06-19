@@ -167,7 +167,8 @@ See the [Decentraland documentation](docs.decentraland.org) to find more specifi
 
 | Example                                                                             | Thumbnail                                             | Description                                                                                     |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [Dhingia Builds](https://github.com/MrDhingia/DhingiaBuilds) | <img src="screenshots/dhingia-builds.png" width="200">| 35+ Opensource builds and assets for Decentraland by MrDhingia.
+| [Dhingia Builds](https://github.com/MrDhingia/DhingiaBuilds) | <img src="screenshots/dhingia-builds.png" width="200">| 35+ Opensource builds and assets for Decentraland by MrDhingia. |
+| [Indicator Arrows](https://github.com/DOCTORdripp/indicator-arrows)    | <img src="screenshots/arrows-demo.gif" width="200">    | Improve the conversion optimization and user flow of your build by indicating key areas with these animated GLB files by DOCTORdripp.       |
 
 ### Monetization and Blockchain
 
