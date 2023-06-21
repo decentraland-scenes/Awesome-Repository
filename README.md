@@ -61,21 +61,15 @@ Visit the Discord channel
 
 ## Key Concepts
 
-| Article                                                                                                             | Thumbnail                                           | Description                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [Introduction to Entities, Components & Systems](https://decentraland.org/blog/tutorials/intro-to-sdk-v5/)          | <img src="screenshots/hypnowheels.png" width="200"> | A walkthrough that starts from scratch and covers most of the main ideas to understand: Entities, Components, Systems, and more. |
-| [Motion & Animations - Part 1](https://decentraland.org/blog/tutorials/motion-animations-in-SDK-5/)                 | <img src="screenshots/gnark1.gif" width="200">      | A walkthrough that covers animating an entity and making it move to follow a path.                                               |
-| [Motion & Animations - Part 2](https://decentraland.org/blog/tutorials/motion-animations-in-SDK-5-part-2/)          | <img src="screenshots/gnark.gif" width="200">       | Building up on the previous part, this part covers alternating animations, and responding to the player's proximity.             |
+For a fully comprehensive introduction, we recommend you read the following topics from the Documentation:
 
-For a fully comprehensive introduction, we also recommend you read the following topics from the Documentation:
+- [Entities & Components](https://docs.decentraland.org/development-guide/sdk7/entities-components/)
+- [Systems](https://docs.decentraland.org/development-guide/sdk7/systems/)
+- [Custom Components](https://docs.decentraland.org/development-guide/sdk7/custom-components/)
+- [Querying Component](https://docs.decentraland.org/development-guide/sdk7/querying-components/)
+- [Files in a Scene](https://docs.decentraland.org/development-guide/sdk7/scene-files/)
 
-- [Entities & Components](https://docs.decentraland.org/development-guide/entities-components/)
-- [Systems](https://docs.decentraland.org/development-guide/systems/)
-- [Custom Components](https://docs.decentraland.org/development-guide/custom-components/)
-- [Component Groups](https://docs.decentraland.org/development-guide/component-groups/)
-- [Files in a Scene](https://docs.decentraland.org/development-guide/scene-files/)
-
-See the [Decentraland documentation](docs.decentraland.org) to find more specific information about various other.
+See the [Decentraland documentation](docs.decentraland.org/creator) to find more specific information about various other.
 
 ## Examples
 
