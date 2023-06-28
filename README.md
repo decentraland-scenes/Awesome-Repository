@@ -158,10 +158,11 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### 3D Art
 
-| Example                                                             | Thumbnail                                              | Description                                                                                                                           |
-| ------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- |
-| [Dhingia Builds](https://github.com/MrDhingia/DhingiaBuilds)        | <img src="screenshots/dhingia-builds.png" width="200"> | 35+ Opensource builds and assets for Decentraland by MrDhingia.                                                                       |
-| [Indicator Arrows](https://github.com/DOCTORdripp/indicator-arrows) | <img src="screenshots/arrows-demo.gif" width="200">    | Improve the conversion optimization and user flow of your build by indicating key areas with these animated GLB files by DOCTORdripp. |
+| Example                                                                             | Thumbnail                                                | Description                                                                                                                           |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| [Dhingia Builds](https://github.com/MrDhingia/DhingiaBuilds)                        | <img src="screenshots/dhingia-builds.png" width="200">   | 35+ Opensource builds and assets for Decentraland by MrDhingia.                                                                       |
+| [Indicator Arrows](https://github.com/DOCTORdripp/indicator-arrows)                 | <img src="screenshots/arrows-demo.gif" width="200">      | Improve the conversion optimization and user flow of your build by indicating key areas with these animated GLB files by DOCTORdripp. |
+| [Wearable Starter Guide](https://github.com/Nikki-Fuego/wearable-starting-file.git) | <img src="screenshots/wearable-starter.png" width="200"> | Everything you need to start your wearable creation journey. Created by Nikki Fuego and Doki.                                         |
 
 ### Monetization and Blockchain
 
@@ -270,12 +271,12 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### Community Modules
 
-| Example                                                                                                   | Thumbnail                                                     | Description                                                                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Example                                                                                 | Thumbnail                                           | Description                                                                                                                                              |
+| --------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Checkers Module](https://github.com/TheCryptoTrader69/Decentraland_Checkers)           | <img src="screenshots/cm_checkers.png" width="200"> | Two player game of checkers, with fully outlined peer-to-peer networking.                                                                                |
 | [NFT Gallery Module](https://github.com/TheCryptoTrader69/Decentraland_Gallery)         | <img src="screenshots/cm_gallery.png" width="200">  | Provides easy-to-use interfaces to generate NFT (2D and 3D) displays. By simply editing the JSON files a user can quickly add displays to their scene.   |
 | [Parkour Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_ParkourKit)    | <img src="screenshots/cm_parkour.png" width="200">  | Provides all the tools need to create your own parkour stadium. Includes: multiple platform types, collectibles, traps, checkpoint/respawn mechanics.    |
-| [Card Game Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_CardGameKit) | <img src="screenshots/cm_cardgame.png" width="200"> | Provides all the utilities required to create card games in Decentraland. Also comes pre-packed with several card games that act as functional examples! | 
+| [Card Game Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_CardGameKit) | <img src="screenshots/cm_cardgame.png" width="200"> | Provides all the utilities required to create card games in Decentraland. Also comes pre-packed with several card games that act as functional examples! |
 
 ### Game Jam Winners
 
