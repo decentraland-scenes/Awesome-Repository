@@ -277,6 +277,9 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 | [NFT Gallery Module](https://github.com/TheCryptoTrader69/Decentraland_Gallery)         | <img src="screenshots/cm_gallery.png" width="200">  | Provides easy-to-use interfaces to generate NFT (2D and 3D) displays. By simply editing the JSON files a user can quickly add displays to their scene.   |
 | [Parkour Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_ParkourKit)    | <img src="screenshots/cm_parkour.png" width="200">  | Provides all the tools need to create your own parkour stadium. Includes: multiple platform types, collectibles, traps, checkpoint/respawn mechanics.    |
 | [Card Game Creation Kit](https://github.com/TheCryptoTrader69/Decentraland_CardGameKit) | <img src="screenshots/cm_cardgame.png" width="200"> | Provides all the utilities required to create card games in Decentraland. Also comes pre-packed with several card games that act as functional examples! |
+| [Interactive Art Exhibition](https://github.com/KatherineJoelle/art-exhibition) | ![art-exhibition-decentraland](https://github.com/decentraland-scenes/Awesome-Repository/assets/53322457/1b996777-452f-49ba-ac13-1b3b71d2186e) | Create an interactive art exhibition with images, videos, and 3D art that rotate to face the player and lower to eye level upon approach. It can be deployed to Decentraland Worlds, so there are no size constraints aside from MB. Made by KJ of Low Poly Models. |
+
+
 
 ### Game Jam Winners
 
