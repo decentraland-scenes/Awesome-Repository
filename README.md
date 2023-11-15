@@ -73,6 +73,20 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 ## Examples
 
+### Wearables
+
+#### Add-ons
+
+| Example                                                                          | Thumbnail                                                  | Description                                                                                                                                                                                                                                         |
+| -------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Feet](https://github.com/Decentraland-DAO/PunkPink-add-ons/tree/main/Feet)              | <img src="screenshots/feet.png" width="200">       | Contains all the add-ons of the Feet category: Left base, Right base, Left shoelaces, Right shoelaces, Left sole, Right sole, Left toecap, Right toecap, Left toecap sole and Right toecap sole.                                                                                                                                  |
+| [Female Lower body](https://github.com/Decentraland-DAO/PunkPink-add-ons/tree/main/Female%20-%20Lower%20body)                         | <img src="screenshots/female-lower-body.png" width="200">               | Contains all the add-ons of the female Lower body category: Waist, Left thigh, Right thigh, Left knee, Right knee, Left leg and Right leg.                                                                                                                                                 |
+| [Female Upper body](https://github.com/Decentraland-DAO/PunkPink-add-ons/tree/main/Female%20-%20Upper%20body)                          | <img src="screenshots/female-upper-body.png" width="200">             | Contains all the add-ons of the male Lower body category: Waist, Left thigh, Right thigh, Left knee, Right knee, Left leg and Right leg.                                                                                                                                                          |
+| [Male Lower body](https://github.com/Decentraland-DAO/PunkPink-add-ons/tree/main/Male%20-%20Lower%20body)       | <img src="screenshots/male-lower-body.png" width="200"> | Contains all the add-ons of the female Upper body category: Torso, Neck, Left arm, Right arm, Left elbow, Right elbow, Left forearm and Right forearm.                                                                            |
+| [Male Upper body](https://github.com/Decentraland-DAO/PunkPink-add-ons/tree/main/Male%20-%20Upper%20body)       | <img src="screenshots/male-upper-body.png" width="200"> | Contains all the add-ons of the male Upper body category: Torso, Neck, Left arm, Right arm, Left elbow, Right elbow, Left forearm and Right forearm.                                                                            |
+| [Skin](https://github.com/Decentraland-DAO/PunkPink-add-ons/tree/main/Skin)       | <img src="screenshots/skin.png" width="200"> | Contains the original body parts with the skin texture of all the previous categories, this is useful if you want to build a wearable with short sleeves or with certain parts exposed such as a thigh, knee, etc.                                                                            |
+
+
 ### Essentials
 
 #### Basics
