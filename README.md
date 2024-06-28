@@ -96,6 +96,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### Basics
 
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
+
 | Example                                                                          | Thumbnail                                                  | Description                                                                                                                                                                                                                                         |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Sliding Door](https://github.com/decentraland-scenes/Sliding-door)              | <img src="screenshots/sliding-door.png" width="200">       | Use the Utils library to shift the position of a door gradually. Clicks on the door toggle it from open to closed.                                                                                                                                  |
@@ -116,6 +120,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 | [Workspaces](https://github.com/decentraland-scenes/dcl-working-with-workspaces) | <img src="screenshots/workspaces.png" width="200">         | Use workspaces to preview multiple adjacent scenes/portable experiences at onces and see how they interact.                                                                                                                                         |
 
 #### Game Mechanics
+
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
 
 | Example                                                                                                       | Thumbnail                                                          | Description                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -156,6 +164,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### Event Hosting
 
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
+
 | Example                                                                                             | Thumbnail                                               | Description                                                                                                                     |
 | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | [Video Streaming](https://github.com/decentraland-scenes/video-streaming)                           | <img src="screenshots/video.png" width="200">           | A video streamed from an external URL. The repo includes instructions for various alternatives for uploading the video content. |                       |
@@ -167,6 +179,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 | [Video UV Mapping to Archways](https://github.com/decentraland-scenes/video-uv-mapping-to-archways) | <img src="screenshots/arches-uv.png" width="200">       | Demonstrates how to UV map a video texture onto many many planes                                                                |
 
 #### Physics
+
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
 
 | Example                                                                             | Thumbnail                                             | Description                                                                                     |
 | ----------------------------------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -186,6 +202,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### Crypto Libraries
 
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
+
 | Example                                                                       | Thumbnail                                                 | Description                                                                                                                         |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [Donation Box](https://github.com/decentraland-scenes/Donations-Box)          | <img src="screenshots/donations.png" width="200">         | Request MANA donations to a wallet.                                                                                                 |
@@ -198,12 +218,20 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### Displaying NFTs
 
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
+
 | Example                                                                    | Thumbnail                                             | Description                                                                                                    |
 | -------------------------------------------------------------------------- | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | [Simple NFT](https://github.com/decentraland-scenes/Certified-criptokitty) | <img src="screenshots/kitty.png" width="200">         | Display a 2D NFT in a picture frame.                                                                           |
 | [NFT Wall](https://github.com/decentraland-scenes/nft-wall-example-scene)  | <img src="screenshots/nft-swap-wall.gif" width="200"> | Display a collection of 2D NFTs in picture frames, these swap every few seconds, taking data from a JSON file. |
 
 #### Interact Directly With Contract
+
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
 
 <!-- mana transaction?? -->
 
@@ -216,6 +244,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### Hit an API
 
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
+
 | Example                                                                         | Thumbnail                                          | Description                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Party Time](https://github.com/decentraland-scenes/Party-Time)                 | <img src="screenshots/party-time.png" width="200"> | Hit a world clock API to check the time, start a party if it's after 9PM.                                                                                                                                     |
@@ -225,11 +257,19 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### Run Server-Side Validations
 
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
+
 | Example                                                                                             | Thumbnail                                            | Description                                                                                                                                                                             |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Validate Player Authenticity](https://github.com/decentraland-scenes/validate-player-authenticity) | <img src="screenshots/signed-fetch.png" width="200"> | Hit a server that validates that the player really is in Decentraland, in a specific parcel, with a recent time-stamp, and signed a message cryptographically with their ephemeral key. |
 
 #### Message Bus
+
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
 
 | Example                                                                         | Thumbnail                                           | Description                                                                                                                                   |
 | ------------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -238,6 +278,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 | [Piano Floor](https://github.com/decentraland-scenes/piano-floor-example-scene) | <img src="screenshots/piano-floor.gif" width="200"> | Play the keys of this piano by stepping on them. All players will hear the notes that are played.                                             |
 
 #### API as Database
+
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
 
 | Example                                                                          | Thumbnail                                               | Description                                                                                                                           |
 | -------------------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -250,6 +294,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### Plain WebSockets
 
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
+
 | Example                                                                           | Thumbnail                                        | Description                                                                                                                                                                                   |
 | --------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Broadcast Server](https://github.com/decentraland-scenes/ws-broadcast)           | (server code only)                               | A basic server that broadcasts all messages it receives to all other players in a room.                                                                                                       |
@@ -261,6 +309,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 
 #### Colyseus
 
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
+
 | Example                                                                       | Thumbnail                                                 | Description                                                                                                                                                                           |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Cube Jumper](https://github.com/colyseus/decentraland)                       | <img src="screenshots/colyseus.png" width="200">          | A basic server that broadcasts all messages it receives to all other players in a room.                                                                                               |
@@ -271,6 +323,10 @@ See the [Decentraland documentation](docs.decentraland.org/creator) to find more
 ### Full Scenes
 
 #### Public Scenes
+
+> [!IMPORTANT]  
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
+> See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
 
 | Example                                                                                                   | Thumbnail                                                     | Description                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
