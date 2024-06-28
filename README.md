@@ -1,7 +1,7 @@
 # Decentraland Awesome Repository
 
 > [!IMPORTANT]  
-> The examples linked on this repo are legacy scenes built with the outdated SDK6
+> The examples linked on this repo are legacy scenes built with the outdated SDK6.  
 > See [studios.decentraland.org/resources](https://studios.decentraland.org/resources) for the latest examples and libraries built on SDK7.
 
 
